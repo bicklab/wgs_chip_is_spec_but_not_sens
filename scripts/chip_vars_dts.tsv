@@ -1,0 +1,1510 @@
+GRID	chip_gene_dts	chip_mut_func_dts	chip_mut_exofunc_dts	chip_mut_aachange_dts	AF_dts
+R236850354	DNMT3A	exonic	frameshift deletion	R767Gfs*14	0.065
+R288271461	GNB1	exonic	nonsynonymous SNV	K57E	0.031
+R231178314	DNMT3A	splicing	.	NA	0.439
+R212685254	ASXL1	exonic	frameshift deletion	P808Lfs*10	0.264
+R274065946	DNMT3A	exonic	nonsynonymous SNV	L637P	0.023
+R255208394	DNMT3A	exonic	frameshift deletion	T257Mfs*59	0.048
+R240837316	DNMT3A	exonic	frameshift insertion	Q415Pfs*238	0.032
+R268875076	TET2	exonic	nonsynonymous SNV	A1241P	0.02
+R295665105	DNMT3A	exonic	nonsynonymous SNV	R729L	0.321
+R295665105	SF3B1	exonic	nonsynonymous SNV	K666N	0.261
+R264745711	PPM1D	exonic	stopgain	K514X	0.02
+R292065489	DNMT3A	exonic	nonsynonymous SNV	V636M	0.056
+R269341202	DNMT3A	exonic	stopgain	L859X	0.136
+R299455311	TET2	exonic	nonsynonymous SNV	E1207G	0.045
+R299455311	TET2	exonic	frameshift insertion	R1808Kfs*14	0.035
+R206372214	DNMT3A	exonic	nonsynonymous SNV	R326C	0.161
+R212915680	ASXL1	exonic	frameshift insertion	E1426Wfs*25	0.088
+R289398738	PPM1D	exonic	stopgain	Q571X	0.145
+R228140360	DNMT3A	exonic	nonsynonymous SNV	R882H	0.394
+R236239011	CBL	exonic	nonsynonymous SNV	H398R	0.036
+R206993152	PPM1D	exonic	frameshift insertion	P531Sfs*5	0.031
+R203096979	DNMT3A	exonic	nonsynonymous SNV	V372D	0.052
+R278842413	TP53	exonic	nonsynonymous SNV	C277Y	0.022
+R281967908	TET2	splicing	.	NA	0.049
+R222529261	DNMT3A	exonic	nonsynonymous SNV	Y735C	0.034
+R222529261	PPM1D	exonic	stopgain	Q524X	0.02
+R247382699	DNMT3A	exonic	nonsynonymous SNV	R792S	0.032
+R223745306	ASXL1	exonic	stopgain	Q977X	0.312
+R257292788	DNMT3A	exonic	frameshift deletion	D564Gfs*11	0.021
+R248546356	TET2	exonic	nonsynonymous SNV	H1904Y	0.022
+R269483799	TET2	exonic	frameshift insertion	L615Afs*23	0.021
+R276610254	TET2	exonic	frameshift deletion	N71Kfs*4	0.036
+R264720045	DNMT3A	exonic	nonsynonymous SNV	Y660C	0.031
+R264720045	GNAS	exonic	nonsynonymous SNV	R201H	0.03
+R264720045	TET2	exonic	stopgain	Q933X	0.02
+R232177574	SF3B1	exonic	nonsynonymous SNV	K700E	0.049
+R226374683	SF3B1	exonic	nonsynonymous SNV	K666N	0.029
+R218675904	DNMT3A	exonic	nonsynonymous SNV	D768H	0.024
+R222071045	DNMT3A	exonic	nonsynonymous SNV	V649M	0.027
+R218447380	DNMT3A	exonic	nonsynonymous SNV	Y735C	0.043
+R206049936	DNMT3A	exonic	nonsynonymous SNV	K826R	0.034
+R265231304	PPM1D	exonic	frameshift deletion	I526Lfs*13	0.027
+R216542302	DNMT3A	exonic	nonsynonymous SNV	C710Y	0.244
+R288152324	DNMT3A	exonic	nonsynonymous SNV	R326C	0.123
+R289791068	DNMT3A	exonic	nonsynonymous SNV	E733V	0.032
+R295140434	DNMT3A	exonic	nonsynonymous SNV	G543C	0.021
+R283054437	ASXL1	exonic	frameshift deletion	V388Pfs*21	0.033
+R269131240	DNMT3A	exonic	nonsynonymous SNV	V690F	0.13
+R214255011	PPM1D	exonic	frameshift deletion	L546Rfs*2	0.059
+R281714671	DNMT3A	exonic	stopgain	Q534X	0.02
+R290623938	DNMT3A	exonic	stopgain	R771X	0.042
+R218392439	TET2	exonic	stopgain	L862X	0.179
+R262180995	TET2	exonic	frameshift insertion	Q913Pfs*11	0.084
+R262180995	TET2	exonic	nonsynonymous SNV	H1380Y	0.046
+R283353056	DNMT3A	exonic	stopgain	Y683X	0.118
+R283353056	TET2	exonic	stopgain	S280*	0.091
+R237949269	PPM1D	exonic	frameshift deletion	Q510Kfs*4	0.077
+R237949269	PPM1D	exonic	stopgain	R552X	0.053
+R244357414	BRCC3	exonic	stopgain	Q7X	0.022
+R213562547	DNMT3A	splicing	.	NA	0.039
+R213562547	TET2	exonic	nonsynonymous SNV	C1374W	0.038
+R201158857	GNB1	exonic	nonsynonymous SNV	K57M	0.091
+R201158857	DNMT3A	exonic	nonsynonymous SNV	W860R	0.052
+R201158857	TET2	exonic	frameshift insertion	N1888Efs*4	0.042
+R282386182	ASXL1	exonic	frameshift insertion	T1001Nfs*4	0.021
+R254225114	DNMT3A	exonic	nonsynonymous SNV	W581R	0.037
+R206268492	ASXL1	exonic	stopgain	R404X	0.021
+R248921437	TET2	exonic	nonsynonymous SNV	I1230L	0.06
+R295509995	PPM1D	exonic	stopgain	R581X	0.02
+R226365454	TET2	exonic	frameshift deletion	L668Yfs*32	0.039
+R237911009	DNMT3A	exonic	nonsynonymous SNV	R326S	0.025
+R257288257	TET2	exonic	frameshift insertion	D1640Efs*60	0.054
+R268284123	TET2	exonic	stopgain	Q1435X	0.053
+R254349084	TET2	exonic	frameshift deletion	S1870Qfs*17	0.05
+R209454265	DNMT3A	exonic	nonsynonymous SNV	I780T	0.092
+R260941495	DNMT3A	exonic	nonsynonymous SNV	K826R	0.203
+R254061793	TET2	exonic	frameshift insertion	A1779Gfs*10	0.098
+R210168340	ASXL1	exonic	stopgain	R404X	0.086
+R279770776	PPM1D	exonic	stopgain	S468X	0.027
+R250321576	TP53	exonic	nonsynonymous SNV	R248W	0.067
+R211238587	TET2	exonic	stopgain	Q916X	0.233
+R211238587	JAK2	exonic	nonsynonymous SNV	V617F	0.081
+R268650002	SF3B1	exonic	nonsynonymous SNV	K700E	0.166
+R274715316	DNMT3A	exonic	frameshift deletion	E235Sfs*81	0.215
+R230142826	TET2	exonic	frameshift insertion	V213Sfs*12	0.023
+R254761924	DNMT3A	exonic	nonsynonymous SNV	R882C	0.264
+R219348691	TET2	exonic	stopgain	E1490X	0.059
+R220394081	PPM1D	exonic	frameshift deletion	S442Afs*9	0.032
+R249515745	TET2	exonic	nonsynonymous SNV	R1359H	0.063
+R274505956	DNMT3A	exonic	nonsynonymous SNV	L905P	0.08
+R274505956	DNMT3A	exonic	stopgain	Y908X	0.021
+R296163180	TET2	exonic	frameshift deletion	P570Sfs*12	0.307
+R246888098	DNMT3A	exonic	nonsynonymous SNV	Y533C	0.06
+R256385025	DNMT3A	exonic	stopgain	Q415X	0.078
+R237869957	DNMT3A	exonic	nonsynonymous SNV	R882C	0.026
+R258948578	DNMT3A	exonic	nonsynonymous SNV	G332R	0.065
+R227093833	ASXL1	exonic	frameshift deletion	E635Rfs*15	0.036
+R295730840	PPM1D	exonic	frameshift deletion	L484Kfs*4	0.025
+R215018734	DNMT3A	exonic	stopgain	E285X	0.462
+R204392223	DNMT3A	exonic	nonsynonymous SNV	M801V	0.03
+R235727692	DNMT3A	exonic	nonsynonymous SNV	R736C	0.035
+R253876564	DNMT3A	exonic	nonsynonymous SNV	R326S	0.04
+R209495232	TET2	exonic	nonsynonymous SNV	I1230L	0.022
+R297907396	DNMT3A	splicing	.	NA	0.026
+R225608140	DNMT3A	splicing	.	NA	0.025
+R287910316	DNMT3A	exonic	stopgain	Q415X	0.03
+R287910316	TET2	exonic	nonsynonymous SNV	R1366H	0.026
+R259352754	DNMT3A	exonic	nonsynonymous SNV	L648P	0.02
+R208917630	DNMT3A	exonic	frameshift deletion	L504Pfs*40	0.02
+R292649115	TET2	exonic	nonsynonymous SNV	R1167S	0.045
+R225178416	PPM1D	exonic	stopgain	R551X	0.04
+R272745360	TET2	splicing	.	NA	0.322
+R299552242	DNMT3A	exonic	nonsynonymous SNV	S770L	0.022
+R278951820	ASXL1	exonic	stopgain	Q517X	0.13
+R271662619	GNB1	exonic	nonsynonymous SNV	K57E	0.152
+R271662619	TET2	exonic	frameshift insertion	C1271Wfs*29	0.048
+R218483181	TET2	exonic	nonsynonymous SNV	C1135Y	0.066
+R243722902	DNMT3A	exonic	stopgain	R598X	0.034
+R294291960	GNAS	exonic	nonsynonymous SNV	R201H	0.021
+R217285111	DNMT3A	exonic	nonsynonymous SNV	Y660C	0.062
+R218309366	SF3B1	exonic	nonsynonymous SNV	K666N	0.063
+R270312156	TET2	exonic	frameshift insertion	H1325Rfs*40	0.057
+R270312156	ASXL1	exonic	stopgain	R417X	0.025
+R266473178	TET2	exonic	stopgain	S588X	0.021
+R211690418	TET2	exonic	frameshift insertion	Q884Sfs*17	0.044
+R211690418	TET2	exonic	stopgain	Q417X	0.023
+R288567194	DNMT3A	exonic	nonsynonymous SNV	R882H	0.141
+R235507650	DNMT3A	exonic	nonsynonymous SNV	R899C	0.02
+R221680884	DNMT3A	exonic	stopgain	R598X	0.021
+R207069527	TET2	exonic	frameshift deletion	Y192Tfs*15	0.025
+R244365675	DNMT3A	exonic	nonsynonymous SNV	R803M	0.032
+R244365675	DNMT3A	exonic	nonsynonymous SNV	L547R	0.026
+R213469280	CBL	exonic	nonsynonymous SNV	H398Q	0.046
+R289858787	DNMT3A	exonic	frameshift deletion	F827Lfs*4	0.048
+R242607008	DNMT3A	exonic	nonsynonymous SNV	R688G	0.086
+R237140877	DNMT3A	exonic	frameshift deletion	W581Gfs*70	0.142
+R216859023	DNMT3A	splicing	.	NA	0.021
+R204901404	DNMT3A	exonic	stopgain	E907X	0.041
+R274509318	DNMT3A	splicing	.	NA	0.023
+R289945051	DNMT3A	exonic	nonsynonymous SNV	Q527P	0.13
+R289945051	TET2	exonic	nonsynonymous SNV	R1359H	0.034
+R239538490	DNMT3A	exonic	frameshift insertion	W327Lfs*16	0.044
+R239538490	ASXL1	exonic	frameshift deletion	C872Sfs*4	0.03
+R296496140	DNMT3A	exonic	nonsynonymous SNV	R882H	0.063
+R213524597	TET2	exonic	nonsynonymous SNV	Q1138K	0.122
+R293171518	SF3B1	exonic	nonsynonymous SNV	K666N	0.12
+R293171518	SF3B1	exonic	nonsynonymous SNV	K700E	0.086
+R293171518	TET2	exonic	nonsynonymous SNV	R1214Q	0.043
+R246824883	ASXL1	exonic	stopgain	Y591X	0.033
+R205342780	TET2	exonic	frameshift deletion	Y1560Ifs*11	0.023
+R216236862	DNMT3A	exonic	stopgain	W795X	0.253
+R216236862	SF3B1	exonic	nonsynonymous SNV	K700E	0.24
+R225900652	TET2	exonic	frameshift insertion	P1108Tfs*22	0.111
+R249915226	DNMT3A	exonic	nonsynonymous SNV	R882C	0.126
+R249915226	DNMT3A	exonic	frameshift deletion	L504Rfs*147	0.022
+R222919255	DNMT3A	splicing	.	NA	0.035
+R289064685	PPM1D	exonic	frameshift insertion	T532Rfs*3	0.3
+R278551677	DNMT3A	splicing	.	NA	0.02
+R299181938	ASXL1	exonic	stopgain	Q546X	0.096
+R221423198	SF3B1	exonic	nonsynonymous SNV	G742D	0.027
+R218625066	ASXL1	exonic	frameshift deletion	D943Ifs*2	0.034
+R250724699	DNMT3A	exonic	frameshift deletion	F909Lfs*13	0.156
+R219265667	TET2	exonic	frameshift deletion	Q642Sfs*58	0.069
+R219265667	BRCC3	splicing	.	NA	0.037
+R256052420	DNMT3A	exonic	nonsynonymous SNV	R882H	0.027
+R206741827	DNMT3A	exonic	nonsynonymous SNV	N797S	0.027
+R206741827	TET2	exonic	frameshift insertion	N1574Afs*23	0.024
+R244979584	TET2	exonic	nonsynonymous SNV	C1221Y	0.045
+R249975905	SF3B1	exonic	nonsynonymous SNV	R625L	0.061
+R268797977	DNMT3A	exonic	frameshift deletion	Q678Gfs*26	0.047
+R210753329	TET2	exonic	frameshift insertion	T444Vfs*4	0.022
+R219779440	DNMT3A	exonic	nonsynonymous SNV	Y660H	0.024
+R243302436	DNMT3A	exonic	nonsynonymous SNV	R326H	0.437
+R266084684	DNMT3A	splicing	.	NA	0.044
+R211309287	DNMT3A	exonic	nonsynonymous SNV	D531N	0.126
+R281022066	DNMT3A	exonic	nonsynonymous SNV	D686V	0.059
+R276616711	DNMT3A	exonic	nonsynonymous SNV	R882C	0.021
+R280566145	ASXL1	exonic	frameshift deletion	F1210Lfs*7	0.134
+R225447336	TP53	exonic	nonsynonymous SNV	D281V	0.26
+R245140487	TET2	exonic	stopgain	N281*	0.031
+R260890835	DNMT3A	exonic	nonsynonymous SNV	R882C	0.159
+R221731536	GNAS	exonic	nonsynonymous SNV	R201S	0.043
+R208814011	SRSF2	exonic	nonsynonymous SNV	P95R	0.432
+R298053728	DNMT3A	splicing	.	NA	0.07
+R259492875	DNMT3A	exonic	frameshift deletion	G722Afs*57	0.049
+R227927948	DNMT3A	splicing	.	NA	0.022
+R260494701	DNMT3A	exonic	nonsynonymous SNV	R882H	0.054
+R241398328	DNMT3A	exonic	nonsynonymous SNV	V636L	0.204
+R253695277	DNMT3A	exonic	nonsynonymous SNV	G543V	0.106
+R259166499	TET2	exonic	nonsynonymous SNV	N1346S	0.031
+R259166499	TET2	exonic	stopgain	Y1345X	0.031
+R297030855	TET2	exonic	stopgain	Q1624X	0.309
+R297030855	DNMT3A	exonic	nonsynonymous SNV	F752C	0.306
+R235245340	DNMT3A	exonic	nonsynonymous SNV	R771Q	0.148
+R235351288	DNMT3A	exonic	stopgain	M852*	0.105
+R235351288	CBL	exonic	nonsynonymous SNV	P417R	0.041
+R235351288	DNMT3A	exonic	nonsynonymous SNV	R635W	0.021
+R260428249	TET2	splicing	.	NA	0.021
+R200339954	TP53	exonic	nonsynonymous SNV	Y220C	0.02
+R266155163	DNMT3A	exonic	nonsynonymous SNV	Y735S	0.089
+R266155163	ASXL1	exonic	stopgain	R417X	0.022
+R246195411	PPM1D	exonic	frameshift deletion	E527Kfs*12	0.131
+R291069971	ASXL1	exonic	stopgain	E719X	0.329
+R294608350	DNMT3A	exonic	frameshift insertion	A226Cfs*27	0.023
+R292442431	PPM1D	exonic	frameshift deletion	T537Hfs*2	0.104
+R269053881	ASXL1	exonic	stopgain	S852X	0.172
+R269053881	DNMT3A	exonic	frameshift insertion	W860Mfs*4	0.147
+R292940282	DNMT3A	exonic	nonsynonymous SNV	R326C	0.049
+R281549974	DNMT3A	exonic	frameshift deletion	G707Afs*72	0.227
+R292145935	DNMT3A	exonic	nonsynonymous SNV	I780T	0.042
+R292145935	DNMT3A	exonic	nonsynonymous SNV	Y735C	0.022
+R252001082	DNMT3A	exonic	nonsynonymous SNV	S337L	0.185
+R217934162	TET2	exonic	stopgain	Q1547X	0.07
+R280066129	PPM1D	exonic	frameshift insertion	L546Pfs*6	0.025
+R228423470	TP53	exonic	nonsynonymous SNV	R267W	0.144
+R228423470	DNMT3A	exonic	nonsynonymous SNV	L901H	0.115
+R296801975	TET2	exonic	stopgain	S794X	0.034
+R298545878	TET2	exonic	frameshift deletion	I1711Lfs*8	0.317
+R298545878	DNMT3A	exonic	nonsynonymous SNV	L905P	0.309
+R232955570	PPM1D	exonic	stopgain	R552X	0.023
+R259419759	TET2	exonic	stopgain	Q886X	0.119
+R259419759	DNMT3A	splicing	.	NA	0.038
+R259419759	ASXL1	exonic	frameshift deletion	A933Lfs*12	0.021
+R215760051	DNMT3A	exonic	frameshift deletion	L813Afs*39	0.049
+R201691550	ASXL1	exonic	stopgain	R419X	0.273
+R246164193	PPM1D	exonic	frameshift deletion	M521Sfs*5	0.072
+R246164193	DNMT3A	exonic	frameshift insertion	H873Sfs*9	0.046
+R236111098	DNMT3A	exonic	frameshift deletion	Y359Qfs*33	0.025
+R223990629	DNMT3A	exonic	frameshift insertion	N516Kfs*30	0.044
+R254677032	DNMT3A	exonic	nonsynonymous SNV	V636L	0.032
+R200985261	DNMT3A	splicing	.	NA	0.154
+R290550490	DNMT3A	exonic	nonsynonymous SNV	R882C	0.026
+R255028692	DNMT3A	splicing	.	NA	0.042
+R292350731	DNMT3A	exonic	stopgain	R598X	0.25
+R226094982	DNMT3A	exonic	nonsynonymous SNV	W753G	0.058
+R276763229	PPM1D	exonic	stopgain	R581X	0.043
+R247385525	DNMT3A	exonic	nonsynonymous SNV	V636L	0.035
+R248080612	TET2	splicing	.	NA	0.07
+R297329745	DNMT3A	exonic	frameshift deletion	F751Sfs*28	0.04
+R212041844	DNMT3A	exonic	frameshift deletion	D268Efs*48	0.098
+R212041844	ASXL1	exonic	stopgain	R404X	0.094
+R269756741	DNMT3A	exonic	nonsynonymous SNV	R635Q	0.061
+R269756741	DNMT3A	exonic	frameshift deletion	F851Sfs*2	0.021
+R290335837	TET2	exonic	stopgain	S825*	0.093
+R254125587	DNMT3A	exonic	nonsynonymous SNV	R882H	0.079
+R254125587	TET2	exonic	stopgain	Y1255*	0.044
+R292977194	DNMT3A	exonic	nonsynonymous SNV	R736C	0.11
+R252998291	ASXL1	exonic	frameshift deletion	E635Rfs*15	0.158
+R204354476	DNMT3A	exonic	stopgain	W893X	0.031
+R235906460	DNMT3A	exonic	nonsynonymous SNV	P799T	0.119
+R283741363	PPM1D	exonic	frameshift deletion	G544Afs*3	0.037
+R295096739	DNMT3A	exonic	nonsynonymous SNV	R882H	0.127
+R271155236	DNMT3A	exonic	frameshift deletion	D768Tfs*11	0.022
+R209963397	TET2	exonic	nonsynonymous SNV	C1378Y	0.061
+R294008220	DNMT3A	exonic	frameshift deletion	N552Kfs*99	0.036
+R294008220	TP53	exonic	nonsynonymous SNV	C277Y	0.026
+R276627275	TET2	exonic	frameshift insertion	R1201Sfs*6	0.283
+R287415509	TET2	exonic	stopgain	Q461X	0.065
+R299696066	DNMT3A	exonic	nonsynonymous SNV	G332R	0.276
+R272194804	DNMT3A	exonic	stopgain	S786*	0.313
+R235545209	TET2	exonic	nonsynonymous SNV	E1206D	0.028
+R221171748	DNMT3A	exonic	nonsynonymous SNV	R635Q	0.022
+R297575925	DNMT3A	exonic	nonsynonymous SNV	P743L	0.051
+R218403873	DNMT3A	exonic	stopgain	E482X	0.092
+R284768646	PPM1D	exonic	frameshift insertion	N512Kfs*16	0.045
+R271619386	SF3B1	exonic	nonsynonymous SNV	K666N	0.027
+R295517837	TET2	exonic	frameshift deletion	G1835Vfs*52	0.025
+R276585992	DNMT3A	exonic	frameshift deletion	F851Lfs*2	0.097
+R276585992	DNMT3A	splicing	.	NA	0.026
+R249142533	DNMT3A	exonic	nonsynonymous SNV	R882H	0.023
+R231594743	DNMT3A	exonic	nonsynonymous SNV	R882C	0.028
+R273851235	DNMT3A	splicing	.	NA	0.028
+R217028692	DNMT3A	splicing	.	NA	0.097
+R255884447	DNMT3A	exonic	nonsynonymous SNV	R635W	0.333
+R248130263	DNMT3A	exonic	nonsynonymous SNV	R882C	0.05
+R214635197	DNMT3A	exonic	nonsynonymous SNV	R882H	0.036
+R225887446	DNMT3A	exonic	frameshift insertion	T503Nfs*43	0.06
+R248868815	TET2	exonic	nonsynonymous SNV	V1862G	0.03
+R231912333	DNMT3A	exonic	nonsynonymous SNV	R729L	0.025
+R284980954	DNMT3A	exonic	nonsynonymous SNV	R882H	0.09
+R232382987	DNMT3A	exonic	nonsynonymous SNV	Y533C	0.02
+R271828564	DNMT3A	exonic	nonsynonymous SNV	R882C	0.067
+R263285665	TET2	exonic	frameshift deletion	I1871Ffs*16	0.029
+R290697289	TET2	exonic	nonsynonymous SNV	R1261H	0.051
+R234144302	DNMT3A	exonic	nonsynonymous SNV	L344P	0.061
+R258405122	ASXL1	exonic	stopgain	R774X	0.021
+R287214502	TP53	exonic	nonsynonymous SNV	R213P	0.263
+R202834006	DNMT3A	exonic	nonsynonymous SNV	Y660C	0.033
+R208598617	TET2	exonic	nonsynonymous SNV	G1275W	0.033
+R271427996	DNMT3A	exonic	frameshift deletion	S390Afs*17	0.037
+R214211291	DNMT3A	exonic	nonsynonymous SNV	R736C	0.023
+R252912808	PPM1D	exonic	stopgain	Q510X	0.02
+R289475437	PPM1D	exonic	stopgain	E539X	0.032
+R266747519	TET2	exonic	stopgain	Q1903X	0.051
+R290976469	DNMT3A	exonic	nonsynonymous SNV	L754P	0.024
+R216440787	NRAS	exonic	nonsynonymous SNV	G12D	0.03
+R240317148	DNMT3A	exonic	nonsynonymous SNV	A368V	0.025
+R250822088	DNMT3A	exonic	frameshift deletion	L703Wfs*2	0.038
+R266895684	DNMT3A	exonic	nonsynonymous SNV	Y735C	0.15
+R266895684	DNMT3A	splicing	.	NA	0.035
+R249827561	DNMT3A	exonic	nonsynonymous SNV	L737R	0.041
+R234779333	DNMT3A	splicing	.	NA	0.083
+R223192262	DNMT3A	exonic	nonsynonymous SNV	Y908C	0.066
+R266923949	ASXL1	exonic	stopgain	Y591*	0.282
+R296618794	PPM1D	exonic	frameshift deletion	E540Gfs*7	0.174
+R271478132	TET2	exonic	stopgain	Q1547X	0.051
+R296679421	ASXL1	exonic	stopgain	R1415X	0.065
+R296679421	DNMT3A	splicing	.	NA	0.031
+R212454817	DNMT3A	splicing	.	NA	0.043
+R287934287	SF3B1	exonic	nonsynonymous SNV	N626D	0.282
+R243374838	TET2	exonic	stopgain	R1516X	0.208
+R213303024	TET2	exonic	nonsynonymous SNV	T1884A	0.02
+R277797215	TET2	exonic	nonsynonymous SNV	H1904R	0.034
+R213587005	DNMT3A	exonic	stopgain	K783Nfs*3	0.031
+R253332276	DNMT3A	exonic	frameshift deletion	L737Pfs*42	0.024
+R293044066	SF3B1	exonic	nonsynonymous SNV	K666R	0.054
+R293044066	DNMT3A	exonic	nonsynonymous SNV	R720C	0.021
+R259557333	DNMT3A	exonic	frameshift insertion	C514Lfs*32	0.028
+R275649167	DNMT3A	exonic	nonsynonymous SNV	D686V	0.099
+R274884165	TET2	exonic	stopgain	R96Lfs*2	0.11
+R290137257	DNMT3A	splicing	.	NA	0.04
+R277440531	DNMT3A	exonic	nonsynonymous SNV	E774D	0.031
+R237604506	DNMT3A	exonic	stopgain	W305X	0.056
+R243784657	DNMT3A	exonic	frameshift deletion	N403Kfs*4	0.042
+R246569608	TET2	exonic	frameshift deletion	M207Qfs*38	0.461
+R246569608	TET2	splicing	.	NA	0.42
+R291645611	DNMT3A	exonic	nonsynonymous SNV	V778M	0.026
+R245675464	DNMT3A	exonic	frameshift deletion	V704Dfs*8	0.078
+R219789024	DNMT3A	exonic	nonsynonymous SNV	M880V	0.039
+R260488406	IDH2	exonic	nonsynonymous SNV	R140Q	0.045
+R298055144	DNMT3A	splicing	.	NA	0.047
+R272202744	PPM1D	exonic	stopgain	E539X	0.077
+R203843664	TET2	exonic	stopgain	K148X	0.029
+R221407513	TET2	exonic	nonsynonymous SNV	I1873T	0.066
+R258959295	DNMT3A	exonic	nonsynonymous SNV	R882C	0.147
+R258959295	SF3B1	exonic	nonsynonymous SNV	K666R	0.035
+R215164665	PPM1D	exonic	frameshift deletion	F534Lfs*5	0.073
+R288087607	PPM1D	exonic	stopgain	E459X	0.024
+R248891990	DNMT3A	exonic	frameshift deletion	V675Gfs*34	0.029
+R293957966	SRSF2	exonic	nonsynonymous SNV	P95H	0.339
+R293957966	ASXL1	exonic	stopgain	Q1063X	0.044
+R293957966	ASXL1	exonic	stopgain	L775X	0.021
+R293957966	SETBP1	exonic	nonsynonymous SNV	G870S	0.041
+R260715683	DNMT3A	exonic	nonsynonymous SNV	M880I	0.029
+R212197593	DNMT3A	splicing	.	NA	0.18
+R228403154	DNMT3A	exonic	nonsynonymous SNV	A903P	0.033
+R291942274	TP53	exonic	nonsynonymous SNV	V274G	0.158
+R241505012	PPM1D	exonic	stopgain	E476X	0.027
+R266356571	ASXL1	exonic	stopgain	L823X	0.107
+R266356571	PPM1D	exonic	stopgain	W427X	0.048
+R297382526	DNMT3A	exonic	nonsynonymous SNV	S337L	0.099
+R212600176	DNMT3A	splicing	.	NA	0.042
+R266446749	ASXL1	exonic	stopgain	R417X	0.072
+R243617314	BRCC3	splicing	.	NA	0.04
+R243617314	SRSF2	exonic	nonsynonymous SNV	P95R	0.243
+R265127186	SF3B1	exonic	nonsynonymous SNV	K666N	0.032
+R245225331	DNMT3A	exonic	frameshift deletion	I670Sfs*35	0.023
+R250630671	ASXL1	exonic	stopgain	E566X	0.033
+R205348213	DNMT3A	exonic	nonsynonymous SNV	R635Q	0.04
+R201319495	DNMT3A	exonic	nonsynonymous SNV	F751I	0.076
+R201365717	CBL	exonic	nonsynonymous SNV	C404Y	0.023
+R213062397	DNMT3A	splicing	.	NA	0.047
+R272377740	DNMT3A	exonic	nonsynonymous SNV	R635W	0.026
+R248042473	TET2	exonic	stopgain	Y1618X	0.045
+R245146413	DNMT3A	exonic	nonsynonymous SNV	F794L	0.052
+R245146413	TET2	exonic	nonsynonymous SNV	P1894T	0.033
+R249931784	TET2	exonic	frameshift deletion	P1092Qfs*14	0.059
+R249931784	DNMT3A	exonic	nonsynonymous SNV	K826R	0.169
+R230774489	DNMT3A	splicing	.	NA	0.044
+R276356213	TET2	exonic	frameshift insertion	S407Ffs*36	0.023
+R227169717	TET2	exonic	frameshift insertion	Q831Tfs*15	0.085
+R213691868	ASXL1	exonic	stopgain	Q588X	0.029
+R206862940	DNMT3A	exonic	nonsynonymous SNV	K826R	0.026
+R204419169	DNMT3A	splicing	.	NA	0.183
+R204419169	DNMT3A	exonic	nonsynonymous SNV	W860R	0.027
+R289010145	ASXL1	exonic	stopgain	C594X	0.041
+R289010145	DNMT3A	exonic	nonsynonymous SNV	L344Q	0.022
+R257600593	IDH2	exonic	nonsynonymous SNV	R140Q	0.044
+R264995745	DNMT3A	splicing	.	NA	0.153
+R264995745	DNMT3A	exonic	frameshift deletion	V247Afs*5	0.113
+R206328576	DNMT3A	exonic	nonsynonymous SNV	R736H	0.028
+R284485040	ASXL1	exonic	stopgain	S392X	0.035
+R293102353	TET2	exonic	nonsynonymous SNV	F1300C	0.299
+R293102353	TET2	exonic	stopgain	R1516X	0.277
+R232043011	DNMT3A	exonic	nonsynonymous SNV	W795S	0.023
+R275202749	DNMT3A	exonic	stopgain	R771X	0.022
+R289855452	DNMT3A	exonic	nonsynonymous SNV	W860R	0.116
+R289877226	DNMT3A	exonic	stopgain	W305X	0.388
+R263312100	SF3B1	exonic	nonsynonymous SNV	K700E	0.029
+R263312100	SF3B1	exonic	nonsynonymous SNV	K666N	0.037
+R274554254	DNMT3A	exonic	nonsynonymous SNV	R882C	0.029
+R203452512	DNMT3A	exonic	nonsynonymous SNV	M880V	0.238
+R204581094	TP53	exonic	nonsynonymous SNV	R273H	0.023
+R204581094	DNMT3A	exonic	nonsynonymous SNV	V704G	0.043
+R262692332	TET2	splicing	.	NA	0.235
+R289738222	DNMT3A	exonic	frameshift deletion	D333Afs*12	0.02
+R281314076	GNB1	exonic	nonsynonymous SNV	K57E	0.363
+R280814834	PPM1D	exonic	frameshift deletion	I526Lfs*13	0.044
+R280814834	PPM1D	exonic	stopgain	Q462X	0.022
+R200822594	TET2	exonic	nonsynonymous SNV	H1380Y	0.069
+R200822594	TET2	exonic	frameshift deletion	K326Nfs*21	0.048
+R200822594	DNMT3A	splicing	.	NA	0.056
+R226796148	PPM1D	exonic	frameshift deletion	L482Rfs*3	0.044
+R276324393	TP53	exonic	nonsynonymous SNV	V143M	0.054
+R215216337	ASXL1	exonic	frameshift deletion	C687Yfs*30	0.4
+R229984961	ASXL1	exonic	stopgain	L1173X	0.029
+R229984961	TET2	exonic	frameshift deletion	H880Tfs*41	0.074
+R251369139	DNMT3A	exonic	nonsynonymous SNV	L547R	0.03
+R251197625	DNMT3A	exonic	frameshift insertion	W440Mfs*5	0.024
+R251197625	DNMT3A	exonic	nonsynonymous SNV	R635L	0.224
+R274821487	DNMT3A	exonic	nonsynonymous SNV	G707S	0.029
+R286307835	GNB1	exonic	nonsynonymous SNV	K57N	0.035
+R286307835	TET2	exonic	frameshift insertion	H1416Pfs*10	0.045
+R235189277	DNMT3A	exonic	stopgain	C351X	0.153
+R281021748	TET2	exonic	stopgain	Q325X	0.41
+R281021748	TET2	exonic	frameshift deletion	R581Lfs*20	0.202
+R281021748	KRAS	exonic	nonsynonymous SNV	G60D	0.023
+R299213834	TET2	exonic	frameshift deletion	E1106Vfs*23	0.478
+R240720659	DNMT3A	exonic	nonsynonymous SNV	Y735S	0.024
+R234571850	DNMT3A	exonic	frameshift deletion	G113Pfs*48	0.022
+R237428071	TET2	exonic	frameshift deletion	Y1148Pfs*7	0.085
+R260738801	PPM1D	exonic	frameshift deletion	G463Vfs*2	0.09
+R282944891	DNMT3A	exonic	nonsynonymous SNV	L344Q	0.072
+R257567687	DNMT3A	exonic	frameshift deletion	K382Sfs*25	0.11
+R257567687	TET2	exonic	frameshift deletion	T995Sfs*13	0.03
+R232907679	PPM1D	exonic	frameshift deletion	L546Rfs*2	0.047
+R262722480	DNMT3A	exonic	frameshift deletion	Y536Tfs*115	0.035
+R279253195	DNMT3A	exonic	stopgain	Y528X	0.075
+R279253195	DNMT3A	splicing	.	NA	0.131
+R211761631	ASXL1	exonic	frameshift deletion	E477Pfs*3	0.096
+R261795072	PPM1D	exonic	frameshift deletion	S453Qfs*4	0.028
+R207221437	DNMT3A	exonic	nonsynonymous SNV	R736H	0.042
+R245344884	SF3B1	exonic	nonsynonymous SNV	K700E	0.036
+R235031405	DNMT3A	exonic	nonsynonymous SNV	R326H	0.02
+R249815794	TET2	exonic	nonsynonymous SNV	V1900L	0.154
+R249815794	TET2	exonic	nonsynonymous SNV	F1285S	0.151
+R241583300	DNMT3A	exonic	nonsynonymous SNV	T645A	0.041
+R245183017	SF3B1	exonic	nonsynonymous SNV	K666T	0.115
+R244681381	DNMT3A	exonic	stopgain	W330X	0.079
+R246293701	DNMT3A	exonic	nonsynonymous SNV	R635Q	0.162
+R216316132	PPM1D	exonic	frameshift deletion	I526Lfs*13	0.17
+R265827586	TET2	exonic	frameshift insertion	I197Nfs*5	0.162
+R217196900	DNMT3A	exonic	frameshift insertion	F414Lfs*7	0.072
+R226815120	TET2	exonic	stopgain	S657X	0.34
+R235224910	TET2	exonic	frameshift insertion	Y1182Lfs*4	0.029
+R226294051	DNMT3A	exonic	frameshift deletion	F509Rfs*36	0.023
+R226294051	DNMT3A	exonic	nonsynonymous SNV	P799A	0.115
+R226294051	DNMT3A	splicing	.	NA	0.022
+R244920493	DNMT3A	exonic	nonsynonymous SNV	R749C	0.13
+R227126892	DNMT3A	exonic	stopgain	G332X	0.043
+R219790819	DNMT3A	exonic	nonsynonymous SNV	Y660C	0.02
+R232550263	DNMT3A	exonic	frameshift insertion	A741Gfs*8	0.022
+R265563304	TET2	exonic	frameshift deletion	K110Rfs*3	0.035
+R217342376	TET2	exonic	frameshift insertion	T556Nfs*11	0.239
+R200267641	DNMT3A	splicing	.	NA	0.022
+R256266196	PPM1D	exonic	stopgain	L484X	0.148
+R234361974	DNMT3A	exonic	stopgain	R771X	0.043
+R223201895	JAK2	exonic	nonsynonymous SNV	V617F	0.112
+R223201895	DNMT3A	exonic	nonsynonymous SNV	R326G	0.033
+R217294779	DNMT3A	exonic	nonsynonymous SNV	R882C	0.025
+R235609323	TET2	exonic	nonsynonymous SNV	P1367R	0.02
+R222039161	DNMT3A	exonic	nonsynonymous SNV	R882H	0.02
+R231784744	TET2	exonic	stopgain	S657X	0.028
+R231784744	TP53	exonic	nonsynonymous SNV	R248W	0.171
+R259908184	DNMT3A	exonic	nonsynonymous SNV	L738Q	0.031
+R259908184	DNMT3A	exonic	nonsynonymous SNV	R366H	0.044
+R294345831	SF3B1	exonic	nonsynonymous SNV	K700E	0.296
+R294345831	TP53	exonic	nonsynonymous SNV	R248W	0.174
+R294823748	SF3B1	exonic	nonsynonymous SNV	N626D	0.088
+R229318859	PPM1D	exonic	stopgain	R572X	0.047
+R229318859	TET2	exonic	frameshift deletion	N275Ifs*18	0.062
+R268161550	TET2	exonic	stopgain	Q720X	0.029
+R211228060	DNMT3A	exonic	nonsynonymous SNV	R882H	0.226
+R250528463	DNMT3A	exonic	frameshift deletion	V758Gfs*21	0.023
+R250528463	GNAS	exonic	nonsynonymous SNV	R201C	0.053
+R211960034	PPM1D	exonic	frameshift deletion	N512Ifs*2	0.05
+R211960034	DNMT3A	exonic	nonsynonymous SNV	P904Q	0.032
+R231737905	DNMT3A	exonic	frameshift insertion	E733Lfs*47	0.03
+R231737905	DNMT3A	exonic	frameshift deletion	F354Sfs*38	0.028
+R218850186	DNMT3A	exonic	nonsynonymous SNV	R882H	0.02
+R216085077	TET2	exonic	frameshift deletion	P761Lfs*52	0.039
+R227509584	TET2	exonic	frameshift deletion	W954Cfs*53	0.043
+R254083530	SF3B1	exonic	nonsynonymous SNV	K700E	0.165
+R295263336	CBL	exonic	nonsynonymous SNV	R420L	0.02
+R247507287	TET2	exonic	stopgain	Q1687X	0.203
+R247507287	DNMT3A	exonic	stopgain	W313X	0.028
+R248070704	DNMT3A	exonic	nonsynonymous SNV	V296M	0.228
+R203236285	DNMT3A	exonic	stopgain	K841X	0.046
+R203236285	DNMT3A	exonic	stopgain	K632X	0.025
+R214959179	GNB1	exonic	nonsynonymous SNV	K57E	0.021
+R227890150	DNMT3A	exonic	nonsynonymous SNV	R882C	0.144
+R295030277	DNMT3A	splicing	.	NA	0.071
+R215312767	TET2	exonic	frameshift insertion	S152Efs*10	0.27
+R201510872	DNMT3A	exonic	nonsynonymous SNV	R882H	0.031
+R250683076	SF3B1	exonic	nonsynonymous SNV	K700E	0.19
+R250683076	TET2	exonic	nonsynonymous SNV	G1361C	0.021
+R250683076	GNAS	exonic	nonsynonymous SNV	R201H	0.02
+R281117838	TET2	exonic	nonsynonymous SNV	P1194A	0.047
+R216024200	DNMT3A	exonic	frameshift deletion	M761Ifs*16	0.048
+R244289860	TET2	exonic	stopgain	L1040X	0.022
+R287977854	TET2	exonic	nonsynonymous SNV	Y1245C	0.022
+R255831658	DNMT3A	splicing	.	NA	0.04
+R255831658	DNMT3A	exonic	nonsynonymous SNV	R882C	0.026
+R291666292	ASXL1	exonic	frameshift insertion	H995Qfs*3	0.042
+R215498095	TP53	exonic	nonsynonymous SNV	R175C	0.027
+R208423574	TET2	exonic	frameshift deletion	T1093Kfs*12	0.044
+R222045579	DNMT3A	exonic	nonsynonymous SNV	R749C	0.072
+R222045579	TET2	exonic	frameshift deletion	E692Kfs*19	0.075
+R277613036	DNMT3A	splicing	.	NA	0.276
+R249874072	PPM1D	exonic	frameshift insertion	K522Tfs*6	0.036
+R270382183	DNMT3A	exonic	frameshift insertion	R309Pfs*15	0.027
+R299773144	CBL	exonic	nonsynonymous SNV	F418C	0.04
+R219011155	TET2	exonic	nonsynonymous SNV	I1873T	0.092
+R286569773	DNMT3A	exonic	frameshift insertion	W860Mfs*4	0.024
+R286569773	DNMT3A	exonic	nonsynonymous SNV	R635W	0.17
+R259485783	DNMT3A	exonic	stopgain	R771X	0.042
+R262867240	TET2	exonic	frameshift insertion	V1862Efs*26	0.029
+R265269601	DNMT3A	exonic	nonsynonymous SNV	D529N	0.081
+R292946204	DNMT3A	exonic	frameshift insertion	R598Gfs*54	0.213
+R224921810	PPM1D	exonic	frameshift deletion	E527Kfs*12	0.024
+R272078574	DNMT3A	exonic	frameshift insertion	Q696Pfs*17	0.028
+R273880332	DNMT3A	exonic	nonsynonymous SNV	A884V	0.181
+R291400577	DNMT3A	exonic	nonsynonymous SNV	S714C	0.021
+R244349161	DNMT3A	splicing	.	NA	0.047
+R225756229	DNMT3A	exonic	nonsynonymous SNV	F732L	0.027
+R210721898	DNMT3A	exonic	nonsynonymous SNV	I369S	0.045
+R283743847	ASXL1	exonic	frameshift deletion	P1263Qfs*17	0.034
+R224155800	PPM1D	exonic	stopgain	Q462X	0.029
+R272890144	TET2	exonic	frameshift deletion	K1005Sfs*3	0.051
+R261969546	DNMT3A	exonic	nonsynonymous SNV	G685R	0.022
+R269429660	DNMT3A	exonic	nonsynonymous SNV	F414V	0.042
+R288996917	TET2	exonic	frameshift insertion	I1105Yfs*25	0.056
+R271957201	DNMT3A	splicing	.	NA	0.033
+R261336418	ASXL1	exonic	stopgain	R417X	0.058
+R203562398	TET2	exonic	stopgain	R1216X	0.031
+R277647176	PPM1D	exonic	frameshift deletion	N542Ifs*5	0.065
+R277875739	DNMT3A	exonic	nonsynonymous SNV	I780T	0.032
+R250188081	DNMT3A	exonic	nonsynonymous SNV	Y735C	0.274
+R249277964	TP53	exonic	nonsynonymous SNV	V143M	0.063
+R249277964	SRSF2	exonic	nonsynonymous SNV	P95H	0.04
+R241494817	DNMT3A	exonic	stopgain	K486X	0.12
+R231113615	TET2	exonic	frameshift insertion	T1114Yfs*16	0.022
+R231293567	PPM1D	exonic	frameshift insertion	N512Kfs*16	0.194
+R231293567	DNMT3A	exonic	nonsynonymous SNV	R882H	0.258
+R284017643	ASXL1	exonic	frameshift insertion	T590Nfs*29	0.091
+R284017643	PPM1D	exonic	stopgain	W427X	0.028
+R232262537	DNMT3A	exonic	nonsynonymous SNV	R882C	0.156
+R272808079	DNMT3A	exonic	nonsynonymous SNV	R882H	0.437
+R272808079	PPM1D	exonic	frameshift deletion	N477Tfs*2	0.039
+R272808079	TET2	exonic	nonsynonymous SNV	C1193W	0.056
+R288498739	TET2	exonic	frameshift deletion	N1118Ifs*19	0.02
+R288498739	TET2	exonic	nonsynonymous SNV	I1873T	0.027
+R221827717	PPM1D	exonic	frameshift insertion	L484Ffs*5	0.07
+R292876287	DNMT3A	exonic	nonsynonymous SNV	D702N	0.02
+R257359590	TET2	exonic	nonsynonymous SNV	I1873T	0.027
+R279590259	TET2	exonic	stopgain	R1516X	0.057
+R289842977	SF3B1	exonic	nonsynonymous SNV	K666T	0.026
+R225966931	ASXL1	exonic	stopgain	R965X	0.078
+R224896251	TET2	splicing	.	NA	0.034
+R294926017	DNMT3A	exonic	frameshift insertion	S894Hfs*14	0.033
+R218191986	DNMT3A	exonic	nonsynonymous SNV	F752V	0.192
+R211451936	DNMT3A	exonic	frameshift deletion	L647Sfs*4	0.078
+R286332221	PPM1D	exonic	stopgain	R552X	0.074
+R286332221	TET2	exonic	frameshift deletion	R1354Sfs*46	0.053
+R286332221	PPM1D	exonic	frameshift deletion	E540Vfs*9	0.029
+R286332221	ASXL1	exonic	frameshift deletion	E635Rfs*15	0.028
+R299457604	DNMT3A	exonic	nonsynonymous SNV	R882C	0.02
+R201627594	DNMT3A	exonic	nonsynonymous SNV	G308D	0.024
+R266518549	TET2	exonic	frameshift deletion	H269Lfs*24	0.414
+R266518549	SRSF2	exonic	nonsynonymous SNV	P95H	0.136
+R211711202	DNMT3A	exonic	nonsynonymous SNV	V296L	0.037
+R211711202	DNMT3A	exonic	stopgain	R320X	0.038
+R241202371	PPM1D	exonic	stopgain	L484X	0.029
+R281264470	PPM1D	exonic	stopgain	R552X	0.024
+R200608107	DNMT3A	exonic	nonsynonymous SNV	G550R	0.029
+R261973635	DNMT3A	exonic	frameshift deletion	S393Rfs*15	0.022
+R261973635	DNMT3A	exonic	nonsynonymous SNV	R882C	0.151
+R261973635	SRSF2	exonic	nonsynonymous SNV	P95H	0.042
+R281846746	DNMT3A	exonic	nonsynonymous SNV	S770L	0.084
+R297119489	TET2	exonic	frameshift deletion	Q910Hfs*12	0.023
+R224696124	DNMT3A	exonic	nonsynonymous SNV	Q886R	0.022
+R294963699	DNMT3A	exonic	frameshift deletion	M548Sfs*103	0.025
+R294963699	DNMT3A	exonic	nonsynonymous SNV	A910P	0.142
+R244560708	DNMT3A	exonic	stopgain	K466X	0.041
+R201936007	DNMT3A	splicing	.	NA	0.041
+R201936007	PPM1D	exonic	frameshift insertion	I466Nfs*10	0.032
+R287465982	DNMT3A	exonic	frameshift deletion	C351Afs*56	0.031
+R210786764	TET2	exonic	frameshift deletion	L676Vfs*4	0.02
+R229485493	DNMT3A	exonic	stopgain	E434X	0.021
+R289664324	DNMT3A	exonic	stopgain	Q356X	0.032
+R289664324	DNMT3A	exonic	nonsynonymous SNV	R771L	0.037
+R289664324	JAK2	exonic	nonsynonymous SNV	V617F	0.026
+R289664324	DNMT3A	splicing	.	NA	0.043
+R282824108	DNMT3A	exonic	frameshift deletion	R790Sfs*7	0.02
+R215592122	DNMT3A	splicing	.	NA	0.02
+R221650629	DNMT3A	exonic	nonsynonymous SNV	R635W	0.048
+R271501057	SF3B1	exonic	nonsynonymous SNV	K666R	0.027
+R211638957	TET2	exonic	nonsynonymous SNV	T1884A	0.03
+R221880414	DNMT3A	exonic	frameshift deletion	Q696Rfs*9	0.037
+R221880414	DNMT3A	exonic	frameshift deletion	K459Rfs*192	0.192
+R212501529	DNMT3A	exonic	nonsynonymous SNV	R882H	0.454
+R246630203	DNMT3A	exonic	nonsynonymous SNV	G543C	0.03
+R265023058	DNMT3A	splicing	.	NA	0.023
+R229459158	DNMT3A	exonic	stopgain	Y481X	0.054
+R264401864	DNMT3A	exonic	stopgain	F640*	0.431
+R255690687	DNMT3A	exonic	nonsynonymous SNV	R882H	0.022
+R299195135	DNMT3A	exonic	nonsynonymous SNV	L547F	0.027
+R259923200	TET2	exonic	nonsynonymous SNV	K1304E	0.021
+R220473821	ASXL1	exonic	stopgain	Q976X	0.034
+R238945170	DNMT3A	exonic	stopgain	W440X	0.045
+R204406184	DNMT3A	splicing	.	NA	0.023
+R240301691	DNMT3A	exonic	stopgain	Q356X	0.037
+R240301691	TET2	exonic	nonsynonymous SNV	I1897N	0.021
+R298065056	TET2	exonic	nonsynonymous SNV	E1206D	0.029
+R269784202	DNMT3A	exonic	frameshift insertion	T834Nfs*21	0.148
+R269784202	GNAS	exonic	nonsynonymous SNV	R201H	0.116
+R232102204	ASXL1	exonic	stopgain	Q588X	0.068
+R273662151	TET2	exonic	nonsynonymous SNV	N1266S	0.094
+R238416350	DNMT3A	splicing	.	NA	0.088
+R238416350	TET2	exonic	nonsynonymous SNV	I1873T	0.102
+R219488350	DNMT3A	exonic	stopgain	E408X	0.105
+R235776102	DNMT3A	exonic	nonsynonymous SNV	M880V	0.06
+R211998300	PPM1D	exonic	frameshift deletion	G544Afs*3	0.249
+R272837728	DNMT3A	exonic	nonsynonymous SNV	F752L	0.022
+R268457343	ASXL1	exonic	stopgain	Q396X	0.036
+R206400649	DNMT3A	splicing	.	NA	0.027
+R289384387	DNMT3A	exonic	stopgain	Y481X	0.023
+R297652056	TET2	exonic	frameshift deletion	N1489Mfs*82	0.034
+R226704398	DNMT3A	exonic	stopgain	R771X	0.058
+R226704398	TET2	exonic	nonsynonymous SNV	L1886F	0.036
+R298242073	TP53	exonic	nonsynonymous SNV	M237I	0.091
+R290344289	BRCC3	exonic	frameshift deletion	T29Kfs*6	0.234
+R295875653	TET2	exonic	nonsynonymous SNV	G1391D	0.139
+R295875653	TET2	splicing	.	NA	0.037
+R295875653	TET2	exonic	stopgain	Q744X	0.201
+R295875653	TET2	exonic	stopgain	K1299*	0.061
+R243520878	TET2	exonic	nonsynonymous SNV	H1881R	0.412
+R243379375	TET2	splicing	.	NA	0.044
+R257440539	TET2	exonic	nonsynonymous SNV	L1229R	0.023
+R221236595	TET2	exonic	frameshift deletion	K751Ifs*61	0.078
+R216989675	DNMT3A	exonic	nonsynonymous SNV	V296M	0.027
+R265305872	ASXL1	exonic	frameshift deletion	E635Rfs*15	0.06
+R295586763	DNMT3A	exonic	frameshift deletion	M585Tfs*65	0.024
+R291266761	DNMT3A	exonic	stopgain	Q696X	0.281
+R291266761	TP53	exonic	nonsynonymous SNV	C277Y	0.038
+R291266761	ASXL1	exonic	stopgain	Q757X	0.054
+R291266761	PPM1D	exonic	frameshift deletion	I526Mfs*13	0.034
+R258526762	TET2	exonic	nonsynonymous SNV	H1881R	0.346
+R257612408	ASXL1	exonic	stopgain	E777X	0.023
+R215172086	DNMT3A	exonic	frameshift deletion	I634Gfs*16	0.026
+R264328866	DNMT3A	exonic	nonsynonymous SNV	G796D	0.067
+R298958283	DNMT3A	exonic	stopgain	Q846X	0.09
+R218329357	PPM1D	exonic	frameshift deletion	G463Cfs*12	0.025
+R218329357	TP53	exonic	nonsynonymous SNV	M237I	0.035
+R261872395	DNMT3A	exonic	nonsynonymous SNV	T645A	0.025
+R201904680	DNMT3A	exonic	frameshift deletion	Q356Rfs*51	0.041
+R201904680	TET2	exonic	stopgain	Q790X	0.052
+R201904680	DNMT3A	exonic	stopgain	C586X	0.031
+R282201513	DNMT3A	exonic	nonsynonymous SNV	I310L	0.13
+R237042535	JAK2	exonic	nonsynonymous SNV	V617F	0.629
+R299260149	DNMT3A	splicing	.	NA	0.102
+R261206132	DNMT3A	exonic	nonsynonymous SNV	F752V	0.024
+R256625058	TET2	exonic	stopgain	Q1603X	0.074
+R256625058	TET2	exonic	nonsynonymous SNV	C1193W	0.059
+R295191282	DNMT3A	exonic	nonsynonymous SNV	R736C	0.083
+R274699570	TET2	exonic	frameshift deletion	K1692Nfs*3	0.067
+R274699570	ASXL1	exonic	stopgain	Q546X	0.065
+R254522505	DNMT3A	exonic	frameshift deletion	E477Gfs*169	0.103
+R239612053	TP53	exonic	nonsynonymous SNV	V143M	0.04
+R243897576	TP53	exonic	nonsynonymous SNV	V216M	0.024
+R254216658	PPM1D	exonic	frameshift deletion	H550Lfs*6	0.043
+R271106523	DNMT3A	exonic	nonsynonymous SNV	W581C	0.029
+R256893791	DNMT3A	exonic	nonsynonymous SNV	F734V	0.044
+R293398511	DNMT3A	exonic	nonsynonymous SNV	S638F	0.029
+R278599035	DNMT3A	exonic	nonsynonymous SNV	F868L	0.039
+R235787031	ASXL1	exonic	stopgain	E947X	0.349
+R227686428	TET2	exonic	frameshift deletion	F1104Lfs*2	0.125
+R227686428	DNMT3A	exonic	nonsynonymous SNV	R326H	0.206
+R268623245	DNMT3A	exonic	nonsynonymous SNV	C514Y	0.166
+R257315444	BRCC3	exonic	frameshift deletion	F149Lfs*2	0.025
+R257315444	SRSF2	exonic	nonsynonymous SNV	P95R	0.03
+R257315444	TET2	exonic	stopgain	N281*	0.078
+R263702175	TET2	exonic	stopgain	R550X	0.029
+R261947153	DNMT3A	exonic	nonsynonymous SNV	R882H	0.055
+R246534854	DNMT3A	exonic	frameshift deletion	F827Lfs*4	0.331
+R249043782	TET2	exonic	frameshift deletion	S1767Vfs*53	0.27
+R214068597	TET2	exonic	frameshift insertion	Y1560Lfs*18	0.024
+R232389692	TET2	exonic	stopgain	K1468X	0.025
+R257318436	DNMT3A	exonic	nonsynonymous SNV	R366C	0.031
+R294903680	TP53	exonic	nonsynonymous SNV	R175H	0.025
+R201884848	DNMT3A	exonic	nonsynonymous SNV	R635W	0.053
+R238675929	TET2	exonic	nonsynonymous SNV	L1212S	0.048
+R287606736	TET2	exonic	nonsynonymous SNV	G1860E	0.06
+R287606736	TET2	exonic	nonsynonymous SNV	P1367T	0.094
+R290841122	PPM1D	exonic	frameshift insertion	S543Ffs*9	0.049
+R219418268	SF3B1	exonic	nonsynonymous SNV	K666R	0.068
+R219418268	TP53	exonic	nonsynonymous SNV	K132R	0.032
+R233484373	DNMT3A	exonic	frameshift deletion	R803Sfs*7	0.132
+R233484373	PPM1D	exonic	stopgain	R572X	0.04
+R266222477	PPM1D	exonic	stopgain	R552X	0.024
+R266222477	DNMT3A	exonic	nonsynonymous SNV	M801V	0.034
+R252498395	DNMT3A	exonic	frameshift deletion	Y874Ifs*7	0.09
+R215052121	DNMT3A	exonic	frameshift deletion	D438Efs*206	0.029
+R275086946	DNMT3A	exonic	nonsynonymous SNV	R729W	0.028
+R253068532	GNAS	exonic	nonsynonymous SNV	R201C	0.085
+R232168856	TET2	exonic	frameshift insertion	W954Gfs*54	0.041
+R265999393	SRSF2	exonic	nonsynonymous SNV	P95L	0.024
+R265999393	DNMT3A	exonic	frameshift deletion	G722Afs*57	0.11
+R265999393	DNMT3A	exonic	nonsynonymous SNV	K721T	0.111
+R265999393	DNMT3A	exonic	nonsynonymous SNV	I780T	0.043
+R288294066	DNMT3A	exonic	nonsynonymous SNV	I310T	0.052
+R237165628	DNMT3A	exonic	nonsynonymous SNV	L637Q	0.023
+R226167530	DNMT3A	exonic	nonsynonymous SNV	R635W	0.091
+R296482182	DNMT3A	exonic	frameshift insertion	Y436Vfs*9	0.023
+R289949991	TET2	exonic	nonsynonymous SNV	L1375W	0.023
+R210282801	PPM1D	exonic	frameshift deletion	N542Ifs*5	0.027
+R204030004	TET2	exonic	stopgain	G342X	0.041
+R290376016	IDH2	exonic	nonsynonymous SNV	R140Q	0.249
+R290376016	SRSF2	exonic	nonsynonymous SNV	P95T	0.278
+R254222637	SF3B1	exonic	nonsynonymous SNV	K666N	0.029
+R275388787	ASXL1	exonic	frameshift deletion	P937Lfs*8	0.024
+R267924262	DNMT3A	exonic	nonsynonymous SNV	L905R	0.028
+R216366149	ASXL1	exonic	stopgain	Q517X	0.06
+R240657314	DNMT3A	exonic	frameshift deletion	Q231Rfs*85	0.029
+R240657314	DNMT3A	exonic	nonsynonymous SNV	P904S	0.053
+R208616123	DNMT3A	exonic	frameshift insertion	N853Efs*2	0.031
+R248327948	DNMT3A	exonic	nonsynonymous SNV	P799A	0.068
+R256678573	TET2	exonic	frameshift deletion	Q1053Hfs*10	0.048
+R252569812	DNMT3A	exonic	frameshift insertion	W860Mfs*4	0.025
+R217288241	JAK2	exonic	nonsynonymous SNV	V617F	0.119
+R217288241	TET2	exonic	frameshift deletion	K148Nfs*3	0.446
+R225197569	ASXL1	exonic	stopgain	S577X	0.079
+R224014880	DNMT3A	exonic	frameshift insertion	E820Sfs*36	0.02
+R296834783	DNMT3A	exonic	nonsynonymous SNV	R882C	0.025
+R267075424	ASXL1	exonic	frameshift deletion	E635Rfs*15	0.02
+R267075424	DNMT3A	exonic	frameshift deletion	E599Gfs*12	0.08
+R202816221	DNMT3A	exonic	nonsynonymous SNV	I769S	0.032
+R249498624	TET2	exonic	frameshift deletion	N752Kfs*60	0.044
+R221763144	DNMT3A	exonic	nonsynonymous SNV	R659H	0.114
+R250370153	DNMT3A	exonic	stopgain	Y528X	0.059
+R210808583	PPM1D	exonic	frameshift deletion	L498Pfs*3	0.121
+R249214650	DNMT3A	exonic	frameshift insertion	F414Lfs*7	0.441
+R249214650	TP53	exonic	nonsynonymous SNV	R175H	0.025
+R265220917	TET2	exonic	stopgain	S835X	0.042
+R265220917	DNMT3A	splicing	.	NA	0.03
+R283606213	PPM1D	exonic	stopgain	Q510X	0.02
+R295463952	ASXL1	exonic	stopgain	K909X	0.058
+R295463952	TET2	exonic	frameshift deletion	F125Sfs*3	0.063
+R288144211	DNMT3A	exonic	nonsynonymous SNV	R635L	0.021
+R263889920	DNMT3A	exonic	nonsynonymous SNV	M880V	0.023
+R263889920	DNMT3A	exonic	nonsynonymous SNV	R749C	0.155
+R257865504	PPM1D	exonic	stopgain	S468X	0.038
+R263278366	TP53	exonic	nonsynonymous SNV	V143M	0.033
+R263278366	TET2	exonic	nonsynonymous SNV	G1282S	0.027
+R237345406	SRSF2	exonic	nonsynonymous SNV	P95H	0.153
+R237345406	TET2	exonic	frameshift insertion	N901Kfs*2	0.092
+R237345406	TET2	exonic	stopgain	M1595*	0.059
+R237345406	IDH1	exonic	nonsynonymous SNV	R132H	0.034
+R290190699	DNMT3A	exonic	frameshift deletion	V636Cfs*15	0.114
+R238529614	TET2	exonic	nonsynonymous SNV	H1868Y	0.06
+R271845087	TET2	exonic	nonsynonymous SNV	K1299E	0.028
+R238119896	PPM1D	exonic	frameshift insertion	L484Ffs*5	0.034
+R238119896	PPM1D	exonic	frameshift insertion	E540Rfs*12	0.029
+R274299087	DNMT3A	exonic	stopgain	G642X	0.031
+R288447415	DNMT3A	exonic	nonsynonymous SNV	H873R	0.218
+R263578339	ASXL1	exonic	frameshift deletion	E635Rfs*15	0.045
+R263578339	PPM1D	exonic	frameshift deletion	S575Cfs*2	0.035
+R263578339	ASXL1	exonic	stopgain	S430X	0.032
+R280595865	TET2	exonic	frameshift deletion	S820Qfs*16	0.165
+R222274269	DNMT3A	exonic	nonsynonymous SNV	R688H	0.027
+R212487757	DNMT3A	exonic	frameshift deletion	F731Sfs*48	0.03
+R246010174	TET2	exonic	frameshift deletion	K1799Rfs*21	0.097
+R246010174	DNMT3A	exonic	stopgain	Y592X	0.089
+R246010174	DNMT3A	exonic	stopgain	Q696X	0.05
+R246174971	TP53	exonic	frameshift deletion	K321Tfs*15	0.02
+R228629706	JAK2	exonic	nonsynonymous SNV	V617F	0.091
+R256115838	SF3B1	exonic	nonsynonymous SNV	G740E	0.04
+R260626964	PPM1D	exonic	stopgain	L484X	0.051
+R265697336	TET2	exonic	frameshift insertion	S689Ffs*4	0.026
+R243636414	TET2	exonic	frameshift deletion	E1319Kfs*44	0.021
+R282160600	PPM1D	exonic	stopgain	Q462X	0.035
+R243676100	DNMT3A	exonic	frameshift deletion	W893Gfs*13	0.028
+R243676100	DNMT3A	exonic	nonsynonymous SNV	R729W	0.025
+R275108848	DNMT3A	exonic	nonsynonymous SNV	P799H	0.059
+R215067188	DNMT3A	exonic	nonsynonymous SNV	Y533C	0.024
+R203657496	GNAS	exonic	nonsynonymous SNV	R201H	0.042
+R215812835	DNMT3A	exonic	nonsynonymous SNV	E733A	0.067
+R235151721	TET2	exonic	nonsynonymous SNV	G1275A	0.033
+R264437468	DNMT3A	exonic	nonsynonymous SNV	I780S	0.041
+R241100986	PPM1D	exonic	stopgain	S421X	0.111
+R221428422	DNMT3A	splicing	.	NA	0.07
+R277268058	DNMT3A	exonic	stopgain	W753*	0.259
+R293425175	PPM1D	exonic	frameshift deletion	E527Kfs*12	0.292
+R293425175	TET2	exonic	stopgain	R550X	0.208
+R293425175	SF3B1	exonic	nonsynonymous SNV	K666N	0.04
+R293425175	PPM1D	exonic	stopgain	E527X	0.034
+R231315308	DNMT3A	exonic	nonsynonymous SNV	P700L	0.092
+R215327543	DNMT3A	exonic	nonsynonymous SNV	R736C	0.299
+R215327543	TET2	exonic	stopgain	Q1501X	0.284
+R241678033	ASXL1	exonic	frameshift insertion	G646Wfs*12	0.348
+R241678033	TET2	exonic	frameshift deletion	K1493Sfs*78	0.207
+R228679879	TET2	exonic	frameshift deletion	I331Yfs*16	0.025
+R236644133	DNMT3A	exonic	frameshift deletion	G168Afs*57	0.034
+R260019572	GNB1	exonic	nonsynonymous SNV	K57E	0.025
+R258631917	DNMT3A	exonic	nonsynonymous SNV	Y660H	0.055
+R203400144	JAK2	exonic	nonsynonymous SNV	V617F	0.026
+R222685874	DNMT3A	exonic	stopgain	R598X	0.036
+R296869393	TP53	exonic	nonsynonymous SNV	R248Q	0.168
+R296869393	DNMT3A	exonic	frameshift deletion	W581Gfs*70	0.024
+R296869393	TP53	exonic	nonsynonymous SNV	R248G	0.02
+R272829299	DNMT3A	exonic	frameshift deletion	A791Pfs*11	0.095
+R255135284	SRSF2	exonic	nonsynonymous SNV	P95H	0.077
+R297828613	DNMT3A	splicing	.	NA	0.022
+R217969849	SRSF2	exonic	nonsynonymous SNV	P95R	0.022
+R299683493	GNB1	exonic	nonsynonymous SNV	K57E	0.092
+R250075964	PPM1D	exonic	frameshift deletion	V507Sfs*7	0.07
+R208956222	DNMT3A	exonic	nonsynonymous SNV	R688H	0.038
+R253684306	ASXL1	exonic	frameshift deletion	E635Rfs*15	0.053
+R211194879	DNMT3A	exonic	nonsynonymous SNV	D768E	0.057
+R224820951	TET2	exonic	nonsynonymous SNV	H1219D	0.03
+R224820951	TET2	exonic	nonsynonymous SNV	H1380Y	0.027
+R274705876	TET2	exonic	nonsynonymous SNV	E1206D	0.047
+R211719387	SF3B1	exonic	nonsynonymous SNV	H662Q	0.021
+R232404151	DNMT3A	exonic	nonsynonymous SNV	R736C	0.174
+R224698590	DNMT3A	exonic	nonsynonymous SNV	R326G	0.032
+R298970778	DNMT3A	exonic	nonsynonymous SNV	R736L	0.063
+R214522108	DNMT3A	exonic	nonsynonymous SNV	V296M	0.069
+R214522108	DNMT3A	splicing	.	NA	0.023
+R230436711	DNMT3A	splicing	.	NA	0.035
+R257173430	DNMT3A	exonic	nonsynonymous SNV	R882H	0.024
+R230883636	DNMT3A	exonic	nonsynonymous SNV	F755S	0.02
+R262230809	PPM1D	exonic	stopgain	R552X	0.047
+R262230809	PPM1D	exonic	frameshift deletion	P473Hfs*10	0.021
+R284294088	TET2	exonic	stopgain	Y1608X	0.036
+R261964104	DNMT3A	exonic	nonsynonymous SNV	G707D	0.271
+R261964104	DNMT3A	exonic	stopgain	R598X	0.051
+R213711326	DNMT3A	splicing	.	NA	0.044
+R235906509	TET2	exonic	nonsynonymous SNV	G1275W	0.057
+R235906509	DNMT3A	exonic	nonsynonymous SNV	S770L	0.021
+R245566413	TET2	exonic	frameshift insertion	N191Kfs*17	0.029
+R259491523	DNMT3A	exonic	nonsynonymous SNV	R688H	0.072
+R259491523	DNMT3A	exonic	frameshift deletion	G168Afs*57	0.033
+R285512318	TET2	exonic	frameshift deletion	K655Nfs*45	0.077
+R255246338	TET2	exonic	frameshift insertion	E971Lfs*37	0.021
+R290592812	TET2	exonic	stopgain	Q943X	0.023
+R200571748	DNMT3A	exonic	nonsynonymous SNV	P904Q	0.057
+R206450540	DNMT3A	exonic	nonsynonymous SNV	W581C	0.022
+R292363637	PPM1D	exonic	stopgain	R572X	0.02
+R210704398	DNMT3A	exonic	frameshift insertion	R831Efs*24	0.023
+R295357640	DNMT3A	exonic	nonsynonymous SNV	R882H	0.027
+R264278350	PPM1D	exonic	frameshift deletion	N512Ifs*2	0.344
+R240378041	ASXL1	exonic	frameshift insertion	A627Gfs*8	0.184
+R240378041	IDH2	exonic	nonsynonymous SNV	R140Q	0.111
+R204828029	TET2	exonic	nonsynonymous SNV	I1873T	0.02
+R212868424	DNMT3A	splicing	.	NA	0.023
+R229532932	TET2	exonic	stopgain	Q743X	0.041
+R245311357	TET2	exonic	stopgain	Q916X	0.044
+R283723962	DNMT3A	exonic	nonsynonymous SNV	A644T	0.051
+R277343557	DNMT3A	exonic	nonsynonymous SNV	R882H	0.037
+R201035400	DNMT3A	exonic	nonsynonymous SNV	T645A	0.094
+R201035400	DNMT3A	splicing	.	NA	0.044
+R265644556	TET2	exonic	nonsynonymous SNV	D1384G	0.136
+R265644556	TET2	exonic	nonsynonymous SNV	S1369P	0.025
+R248637482	DNMT3A	exonic	nonsynonymous SNV	R635W	0.026
+R259510764	DNMT3A	exonic	stopgain	Q615X	0.022
+R279091961	DNMT3A	exonic	nonsynonymous SNV	R882C	0.049
+R251962920	DNMT3A	splicing	.	NA	0.039
+R212078863	DNMT3A	exonic	frameshift insertion	V386Gfs*7	0.025
+R231965562	DNMT3A	exonic	frameshift deletion	V672Afs*32	0.116
+R275491136	TP53	exonic	nonsynonymous SNV	Y220S	0.037
+R237973466	ASXL1	exonic	stopgain	Q1491X	0.112
+R217265522	ASXL1	exonic	frameshift deletion	E635Rfs*15	0.034
+R225811863	DNMT3A	exonic	nonsynonymous SNV	S638F	0.078
+R251712413	DNMT3A	exonic	nonsynonymous SNV	T645A	0.027
+R243383778	DNMT3A	exonic	stopgain	Y683X	0.036
+R243857734	BRCC3	exonic	stopgain	L80X	0.029
+R225713660	DNMT3A	exonic	stopgain	D252*	0.05
+R259519644	DNMT3A	exonic	nonsynonymous SNV	G685R	0.028
+R245460563	DNMT3A	exonic	nonsynonymous SNV	S770L	0.02
+R238074169	PPM1D	exonic	stopgain	Q571X	0.022
+R230888819	DNMT3A	exonic	nonsynonymous SNV	M801T	0.021
+R270683175	PPM1D	exonic	frameshift insertion	Q462Pfs*14	0.023
+R288830662	TET2	exonic	frameshift insertion	S424Kfs*19	0.044
+R235017398	DNMT3A	exonic	nonsynonymous SNV	R882C	0.114
+R289658511	DNMT3A	exonic	nonsynonymous SNV	R736C	0.034
+R246120167	DNMT3A	exonic	nonsynonymous SNV	I705T	0.037
+R233348045	TP53	exonic	nonsynonymous SNV	H179R	0.02
+R275942218	PPM1D	exonic	frameshift insertion	E447Kfs*5	0.068
+R293155390	PPM1D	exonic	stopgain	R552X	0.021
+R204168471	CBL	exonic	nonsynonymous SNV	C404Y	0.039
+R204168471	ASXL1	exonic	stopgain	R693X	0.027
+R204168471	DNMT3A	exonic	nonsynonymous SNV	R729W	0.024
+R265207022	DNMT3A	exonic	stopgain	R771X	0.059
+R265207022	TET2	exonic	stopgain	Q690X	0.04
+R265207022	DNMT3A	exonic	stopgain	R320X	0.031
+R200614409	DNMT3A	exonic	nonsynonymous SNV	R736H	0.05
+R268003328	DNMT3A	exonic	frameshift deletion	K680Rfs*25	0.091
+R242327056	PPM1D	exonic	frameshift insertion	R485Ifs*5	0.038
+R215298884	ASXL1	exonic	frameshift deletion	E635Rfs*15	0.067
+R215298884	DNMT3A	exonic	nonsynonymous SNV	F731V	0.024
+R270582134	DNMT3A	exonic	stopgain	K420X	0.031
+R270582134	DNMT3A	exonic	nonsynonymous SNV	Y735C	0.023
+R269963857	DNMT3A	exonic	stopgain	W860X	0.037
+R269963857	DNMT3A	exonic	nonsynonymous SNV	R729W	0.03
+R256710670	CBL	exonic	nonsynonymous SNV	C416S	0.23
+R263581931	DNMT3A	exonic	stopgain	W440X	0.021
+R293642958	TET2	exonic	stopgain	Y592X	0.024
+R288956568	DNMT3A	exonic	stopgain	Q402X	0.023
+R276061067	DNMT3A	exonic	nonsynonymous SNV	F755I	0.044
+R276061067	DNMT3A	exonic	frameshift deletion	Y793Rfs*12	0.041
+R294381195	DNMT3A	exonic	nonsynonymous SNV	R899H	0.133
+R294381195	GNB1	exonic	nonsynonymous SNV	I80T	0.026
+R203880530	DNMT3A	exonic	frameshift deletion	K630Efs*10	0.066
+R210617621	DNMT3A	exonic	nonsynonymous SNV	I705T	0.02
+R255086947	DNMT3A	exonic	frameshift deletion	A525Vfs*20	0.059
+R237384558	DNMT3A	exonic	nonsynonymous SNV	G699D	0.08
+R270692278	SF3B1	exonic	nonsynonymous SNV	K666N	0.079
+R270692278	TET2	exonic	stopgain	Q1652X	0.046
+R292474337	ASXL1	exonic	frameshift deletion	A1016Lfs*8	0.05
+R282795364	GNB1	exonic	nonsynonymous SNV	K57E	0.057
+R250768738	ASXL1	exonic	frameshift insertion	A772Sfs*2	0.032
+R250768738	DNMT3A	exonic	nonsynonymous SNV	F731L	0.024
+R268260692	TET2	exonic	nonsynonymous SNV	E1874G	0.114
+R209259675	DNMT3A	exonic	nonsynonymous SNV	F755L	0.023
+R230159375	TET2	exonic	frameshift deletion	S1906Rfs*2	0.035
+R230159375	DNMT3A	exonic	stopgain	W330X	0.03
+R266830248	DNMT3A	exonic	nonsynonymous SNV	R676W	0.396
+R272232679	PPM1D	exonic	stopgain	R552X	0.022
+R239976702	ASXL1	exonic	frameshift deletion	M713Ifs*12	0.03
+R253951911	TP53	exonic	nonsynonymous SNV	C176R	0.089
+R253951911	DNMT3A	exonic	stopgain	S349X	0.021
+R269261601	DNMT3A	exonic	nonsynonymous SNV	H821R	0.044
+R281043407	GNB1	exonic	nonsynonymous SNV	K57E	0.038
+R205707954	TP53	exonic	nonsynonymous SNV	R175C	0.02
+R231142591	DNMT3A	exonic	nonsynonymous SNV	R882S	0.022
+R214007482	GNAS	exonic	nonsynonymous SNV	R201C	0.116
+R214007482	DNMT3A	exonic	frameshift insertion	G234Rfs*19	0.021
+R293757770	TP53	exonic	nonsynonymous SNV	K132R	0.043
+R223781164	TET2	exonic	stopgain	S1668*	0.047
+R203624725	DNMT3A	exonic	stopgain	R598X	0.075
+R258381614	DNMT3A	exonic	frameshift deletion	R729Gfs*50	0.044
+R261061066	PPM1D	exonic	stopgain	L450X	0.144
+R261061066	DNMT3A	exonic	nonsynonymous SNV	W860R	0.119
+R209200846	DNMT3A	exonic	frameshift deletion	P385Rfs*22	0.044
+R214008291	TET2	exonic	frameshift deletion	T1063Sfs*4	0.021
+R251002939	DNMT3A	exonic	nonsynonymous SNV	S638F	0.034
+R234802400	TET2	exonic	stopgain	Y1569X	0.099
+R234802400	TET2	exonic	stopgain	W1233X	0.025
+R219490067	DNMT3A	exonic	frameshift deletion	L713Sfs*66	0.071
+R284750355	ASXL1	exonic	stopgain	Y591*	0.234
+R292650735	PPM1D	exonic	frameshift deletion	N512Ifs*2	0.423
+R252262075	DNMT3A	exonic	nonsynonymous SNV	I407N	0.077
+R279480056	DNMT3A	splicing	.	NA	0.114
+R247826219	ASXL1	exonic	frameshift deletion	E635Rfs*15	0.023
+R223448253	DNMT3A	splicing	.	NA	0.046
+R234852508	TET2	exonic	stopgain	Q886X	0.245
+R207310425	KRAS	exonic	nonsynonymous SNV	A146V	0.021
+R224162567	TET2	exonic	frameshift insertion	R1440Tfs*38	0.021
+R226263962	DNMT3A	exonic	nonsynonymous SNV	W860R	0.043
+R243438594	JAK2	exonic	nonsynonymous SNV	V617F	0.158
+R297100433	ASXL1	exonic	frameshift deletion	W796Gfs*22	0.087
+R297100433	TET2	exonic	frameshift deletion	L1375Wfs*73	0.024
+R297100433	TET2	exonic	frameshift deletion	G1187Afs*39	0.024
+R264449454	DNMT3A	exonic	nonsynonymous SNV	G707V	0.071
+R295329875	DNMT3A	exonic	nonsynonymous SNV	G413V	0.044
+R202821719	DNMT3A	exonic	nonsynonymous SNV	R635W	0.169
+R271712567	DNMT3A	splicing	.	NA	0.029
+R271712567	DNMT3A	exonic	nonsynonymous SNV	R326C	0.025
+R274665581	PPM1D	exonic	stopgain	R552X	0.023
+R268801719	BRCC3	exonic	frameshift deletion	D160Tfs*72	0.048
+R286879215	DNMT3A	exonic	nonsynonymous SNV	F731Y	0.022
+R259064482	PPM1D	exonic	stopgain	R572X	0.031
+R286499228	DNMT3A	exonic	nonsynonymous SNV	R729Q	0.02
+R275382401	TP53	exonic	nonsynonymous SNV	H193R	0.032
+R225279583	DNMT3A	exonic	nonsynonymous SNV	L754P	0.042
+R225279583	TET2	exonic	nonsynonymous SNV	I1873T	0.021
+R295744211	SF3B1	exonic	nonsynonymous SNV	K700E	0.401
+R226519402	ASXL1	exonic	stopgain	E635X	0.163
+R266764635	DNMT3A	exonic	frameshift deletion	E434Kfs*217	0.044
+R218550860	TET2	exonic	nonsynonymous SNV	H1380Y	0.047
+R248837816	DNMT3A	exonic	stopgain	C710X	0.217
+R239877994	TET2	exonic	stopgain	Q1435X	0.399
+R239877994	TET2	exonic	nonsynonymous SNV	H1380Y	0.349
+R217587650	DNMT3A	exonic	stopgain	R320X	0.022
+R232411718	DNMT3A	exonic	stopgain	Q248X	0.026
+R271460956	DNMT3A	exonic	nonsynonymous SNV	V636L	0.038
+R222357449	DNMT3A	exonic	frameshift deletion	E578Tfs*72	0.026
+R221111302	DNMT3A	exonic	frameshift deletion	N403Tfs*4	0.023
+R245562438	TET2	exonic	frameshift insertion	L1790Rfs*7	0.178
+R240598690	ASXL1	exonic	stopgain	R417X	0.076
+R285089968	TET2	exonic	nonsynonymous SNV	R1214Q	0.045
+R284438244	DNMT3A	exonic	nonsynonymous SNV	P777H	0.027
+R280681074	DNMT3A	exonic	frameshift deletion	T261Rfs*55	0.049
+R265414712	PPM1D	exonic	stopgain	S468X	0.026
+R216820978	DNMT3A	exonic	nonsynonymous SNV	W860R	0.091
+R281428764	DNMT3A	exonic	nonsynonymous SNV	R882H	0.086
+R228665786	TP53	exonic	nonsynonymous SNV	Y220C	0.075
+R242292747	TET2	exonic	stopgain	Q654X	0.053
+R218587229	DNMT3A	exonic	nonsynonymous SNV	R882H	0.025
+R224047924	PPM1D	exonic	stopgain	R552X	0.027
+R208496355	SRSF2	exonic	nonsynonymous SNV	P95T	0.458
+R208496355	TET2	exonic	nonsynonymous SNV	I1873T	0.431
+R208496355	CBL	exonic	nonsynonymous SNV	C401R	0.43
+R208496355	TET2	exonic	stopgain	R544X	0.424
+R208496355	ASXL1	exonic	frameshift deletion	Q748Nfs*24	0.417
+R212166666	TP53	exonic	nonsynonymous SNV	R181H	0.384
+R210383766	SF3B1	exonic	nonsynonymous SNV	K666N	0.022
+R260733805	DNMT3A	exonic	nonsynonymous SNV	Y735C	0.028
+R292079087	SF3B1	exonic	nonsynonymous SNV	K666N	0.111
+R279958084	TET2	exonic	stopgain	L1457*	0.073
+R279958084	DNMT3A	splicing	.	NA	0.071
+R245302637	TET2	exonic	nonsynonymous SNV	C1263Y	0.065
+R249650086	DNMT3A	exonic	nonsynonymous SNV	W893S	0.054
+R233636075	TET2	exonic	nonsynonymous SNV	H1380Y	0.085
+R271794007	DNMT3A	exonic	nonsynonymous SNV	G293R	0.026
+R211518756	DNMT3A	exonic	nonsynonymous SNV	R882H	0.257
+R211518756	SF3B1	exonic	nonsynonymous SNV	K666N	0.251
+R243525889	DNMT3A	exonic	nonsynonymous SNV	R882C	0.298
+R254498826	PPM1D	exonic	frameshift deletion	N512Ifs*2	0.044
+R244720428	TET2	exonic	stopgain	Q1852X	0.023
+R252493762	DNMT3A	exonic	frameshift insertion	A269Gfs*12	0.023
+R281591081	DNMT3A	splicing	.	NA	0.045
+R274284316	DNMT3A	exonic	nonsynonymous SNV	R635W	0.253
+R219948214	ASXL1	exonic	stopgain	W1037X	0.057
+R211370613	DNMT3A	exonic	nonsynonymous SNV	R882H	0.296
+R272507048	TET2	exonic	frameshift deletion	K1243Nfs*10	0.021
+R211693663	DNMT3A	exonic	frameshift deletion	A571Sfs*3	0.043
+R210145689	PPM1D	exonic	frameshift deletion	W427Cfs*4	0.026
+R228634292	BRCC3	exonic	frameshift deletion	S16Ffs*7	0.03
+R257750423	DNMT3A	exonic	nonsynonymous SNV	R729Q	0.033
+R257750423	PPM1D	exonic	stopgain	S468X	0.022
+R203742215	DNMT3A	exonic	nonsynonymous SNV	R882H	0.035
+R249363875	TET2	exonic	nonsynonymous SNV	I1873T	0.161
+R248535180	TET2	exonic	stopgain	W1003X	0.209
+R228622082	TET2	exonic	stopgain	S657X	0.234
+R203541883	PPM1D	exonic	stopgain	R552X	0.067
+R252774584	TET2	exonic	frameshift deletion	P286Qfs*7	0.147
+R259522974	ASXL1	exonic	frameshift deletion	L732Qfs*8	0.276
+R292760809	DNMT3A	exonic	frameshift insertion	N501Sfs*151	0.042
+R240112931	ASXL1	exonic	frameshift deletion	L992Vfs*31	0.034
+R243408536	PPM1D	exonic	frameshift deletion	M508Tfs*5	0.027
+R209000871	ASXL1	exonic	frameshift insertion	S1040Efs*12	0.022
+R272176076	DNMT3A	exonic	nonsynonymous SNV	R736H	0.214
+R272176076	TET2	exonic	frameshift insertion	S15Kfs*28	0.052
+R291304964	DNMT3A	splicing	.	NA	0.058
+R283216615	TP53	exonic	nonsynonymous SNV	C275Y	0.044
+R295572785	SF3B1	exonic	nonsynonymous SNV	K666N	0.197
+R227782344	DNMT3A	splicing	.	NA	0.022
+R269269732	PPM1D	exonic	frameshift deletion	P411Yfs*18	0.029
+R202600453	DNMT3A	exonic	stopgain	E697X	0.044
+R202600453	DNMT3A	splicing	.	NA	0.02
+R250353468	DNMT3A	exonic	frameshift deletion	A791Pfs*11	0.049
+R277137806	DNMT3A	splicing	.	NA	0.048
+R225230270	GNB1	exonic	nonsynonymous SNV	K57E	0.052
+R249987015	DNMT3A	exonic	nonsynonymous SNV	R882H	0.234
+R253940193	DNMT3A	exonic	nonsynonymous SNV	R635W	0.027
+R249851172	SF3B1	exonic	nonsynonymous SNV	K700E	0.171
+R203221918	DNMT3A	exonic	nonsynonymous SNV	A910V	0.025
+R278166979	PPM1D	exonic	stopgain	E472X	0.061
+R278166979	DNMT3A	exonic	frameshift deletion	G413Afs*238	0.03
+R299760717	DNMT3A	exonic	stopgain	R320X	0.061
+R210385452	TET2	exonic	nonsynonymous SNV	Y1294C	0.023
+R292709111	DNMT3A	exonic	stopgain	Q615X	0.02
+R229139816	DNMT3A	exonic	nonsynonymous SNV	I634F	0.116
+R264554444	DNMT3A	exonic	frameshift insertion	T691Nfs*22	0.301
+R264554444	JAK2	exonic	nonsynonymous SNV	V617F	0.042
+R206129192	SF3B1	exonic	nonsynonymous SNV	K666R	0.421
+R206047400	DNMT3A	exonic	frameshift deletion	A572Gfs*34	0.044
+R296401455	DNMT3A	exonic	nonsynonymous SNV	R882C	0.296
+R266200397	DNMT3A	exonic	nonsynonymous SNV	R882H	0.022
+R208911360	TET2	exonic	frameshift insertion	A996Qfs*12	0.027
+R255908537	TET2	exonic	frameshift deletion	R1543Pfs*33	0.026
+R223162461	DNMT3A	exonic	nonsynonymous SNV	R326C	0.036
+R298152029	PPM1D	exonic	frameshift deletion	A481Pfs*2	0.049
+R273521922	DNMT3A	exonic	nonsynonymous SNV	R882C	0.12
+R262488187	DNMT3A	exonic	frameshift insertion	A242Gfs*12	0.086
+R266510987	DNMT3A	exonic	nonsynonymous SNV	W860R	0.025
+R293573034	TET2	exonic	frameshift insertion	G1430Afs*12	0.031
+R241179584	ASXL1	exonic	stopgain	L775X	0.111
+R243863041	TP53	exonic	nonsynonymous SNV	V272M	0.055
+R248106376	DNMT3A	exonic	nonsynonymous SNV	R882H	0.162
+R272411868	TP53	exonic	nonsynonymous SNV	R248Q	0.027
+R208468667	DNMT3A	exonic	nonsynonymous SNV	R326H	0.02
+R279385006	TP53	exonic	nonsynonymous SNV	L194R	0.083
+R201326152	GNAS	exonic	nonsynonymous SNV	R201S	0.028
+R234203764	TET2	exonic	nonsynonymous SNV	E1206D	0.022
+R220518797	DNMT3A	exonic	stopgain	W327X	0.038
+R278127796	SF3B1	exonic	nonsynonymous SNV	K666R	0.213
+R253324815	SF3B1	exonic	nonsynonymous SNV	K666T	0.031
+R207583496	PPM1D	exonic	stopgain	E540X	0.042
+R248539874	TET2	exonic	frameshift deletion	N275Ifs*18	0.096
+R272261825	DNMT3A	exonic	nonsynonymous SNV	R882C	0.021
+R200111928	DNMT3A	exonic	stopgain	W795X	0.048
+R200111928	TP53	exonic	nonsynonymous SNV	R273H	0.031
+R200111928	DNMT3A	exonic	stopgain	W305X	0.02
+R295617308	BRCC3	exonic	stopgain	E33X	0.102
+R254145767	DNMT3A	exonic	nonsynonymous SNV	R882C	0.352
+R287406610	TET2	exonic	stopgain	S1870X	0.401
+R240662931	DNMT3A	exonic	nonsynonymous SNV	R899H	0.021
+R200403009	GNAS	exonic	nonsynonymous SNV	R201H	0.09
+R200779674	GNB1	exonic	nonsynonymous SNV	K57E	0.025
+R201135280	DNMT3A	exonic	frameshift deletion	Q415Hfs*236	0.037
+R201709946	DNMT3A	exonic	nonsynonymous SNV	Y735C	0.044
+R201794341	PPM1D	exonic	frameshift deletion	C478Afs*5	0.045
+R202290881	ASXL1	exonic	stopgain	Y591X	0.367
+R202770710	TET2	exonic	frameshift insertion	H717Tfs*6	0.02
+R204192534	DNMT3A	splicing	.	NA	0.032
+R205020968	DNMT3A	exonic	nonsynonymous SNV	L754R	0.094
+R205467397	DNMT3A	exonic	stopgain	E342X	0.025
+R206479589	ASXL1	exonic	frameshift insertion	G643Rfs*15	0.208
+R206738566	DNMT3A	exonic	nonsynonymous SNV	R882C	0.102
+R206823773	DNMT3A	exonic	frameshift deletion	V328Sfs*17	0.084
+R206871115	DNMT3A	exonic	nonsynonymous SNV	P777H	0.02
+R207203044	ASXL1	exonic	frameshift deletion	P699Lfs*4	0.021
+R207722670	DNMT3A	splicing	.	NA	0.034
+R208658836	DNMT3A	exonic	nonsynonymous SNV	P777H	0.023
+R208876101	DNMT3A	exonic	stopgain	E545X	0.082
+R209234058	DNMT3A	exonic	nonsynonymous SNV	Y365C	0.025
+R209680998	TET2	exonic	nonsynonymous SNV	G1275W	0.027
+R210021634	TET2	exonic	frameshift deletion	P1866Qfs*17	0.028
+R210099249	IDH2	exonic	nonsynonymous SNV	R140Q	0.02
+R210118542	TET2	exonic	nonsynonymous SNV	P1316T	0.021
+R211272727	DNMT3A	exonic	stopgain	R771X	0.028
+R212015074	DNMT3A	exonic	frameshift insertion	E426Rfs*19	0.054
+R212354324	DNMT3A	exonic	nonsynonymous SNV	L347P	0.246
+R212811659	PPM1D	exonic	frameshift insertion	I436Nfs*7	0.112
+R214220195	JAK2	exonic	nonsynonymous SNV	V617F	0.039
+R214676829	DNMT3A	exonic	frameshift deletion	N810Ifs*14	0.051
+R214944345	BRCC3	exonic	frameshift deletion	I212Tfs*22	0.159
+R217235745	DNMT3A	exonic	stopgain	W297X	0.087
+R217320977	TP53	exonic	stopgain	R196X	0.024
+R217385946	DNMT3A	exonic	nonsynonymous SNV	F732V	0.03
+R217618832	GNB1	exonic	nonsynonymous SNV	K57E	0.131
+R217735013	DNMT3A	exonic	nonsynonymous SNV	C514Y	0.041
+R218091867	DNMT3A	exonic	nonsynonymous SNV	R326S	0.085
+R218552905	DNMT3A	exonic	nonsynonymous SNV	A644T	0.04
+R219151018	TP53	exonic	stopgain	R196X	0.021
+R219489834	DNMT3A	exonic	nonsynonymous SNV	Y735C	0.05
+R219544131	DNMT3A	exonic	frameshift deletion	G308Afs*8	0.02
+R219775919	DNMT3A	exonic	nonsynonymous SNV	R635W	0.077
+R220509604	DNMT3A	exonic	stopgain	Q415X	0.043
+R220805788	PPM1D	exonic	frameshift insertion	R536Nfs*2	0.03
+R220901737	DNMT3A	exonic	nonsynonymous SNV	F732I	0.265
+R221118369	TP53	exonic	nonsynonymous SNV	D208V	0.022
+R223044313	ASXL1	exonic	frameshift deletion	E635Rfs*15	0.269
+R223334536	DNMT3A	exonic	stopgain	C387X	0.055
+R223493671	DNMT3A	exonic	nonsynonymous SNV	P743S	0.1
+R224052777	TET2	exonic	nonsynonymous SNV	R1926C	0.05
+R225123327	DNMT3A	exonic	nonsynonymous SNV	R635W	0.285
+R225249497	TET2	splicing	.	NA	0.021
+R225481963	DNMT3A	exonic	nonsynonymous SNV	L344Q	0.05
+R225523574	TET2	exonic	frameshift deletion	D527Tfs*6	0.021
+R225527660	DNMT3A	exonic	stopgain	Q534X	0.053
+R225543694	DNMT3A	exonic	stopgain	W581*	0.148
+R225730066	DNMT3A	exonic	nonsynonymous SNV	R635Q	0.035
+R226015327	DNMT3A	exonic	nonsynonymous SNV	Y735C	0.057
+R226627208	TP53	exonic	nonsynonymous SNV	R273C	0.081
+R226907433	ASXL1	exonic	frameshift deletion	Q403Afs*6	0.024
+R227206921	DNMT3A	exonic	nonsynonymous SNV	R882C	0.093
+R228016014	PPM1D	exonic	frameshift deletion	E540Gfs*7	0.354
+R228064832	DNMT3A	splicing	.	NA	0.1
+R228530205	DNMT3A	exonic	nonsynonymous SNV	L547F	0.054
+R228768879	DNMT3A	exonic	nonsynonymous SNV	T645A	0.111
+R229335173	DNMT3A	splicing	.	NA	0.035
+R229759744	TET2	exonic	frameshift deletion	K1905Rfs*3	0.032
+R229913755	PPM1D	exonic	frameshift insertion	K548Nfs*9	0.305
+R229960098	DNMT3A	exonic	nonsynonymous SNV	R882H	0.03
+R230180133	DNMT3A	exonic	nonsynonymous SNV	Y735S	0.025
+R230233235	DNMT3A	exonic	stopgain	W330X	0.029
+R230765672	GNB1	exonic	nonsynonymous SNV	I80N	0.05
+R231007061	DNMT3A	splicing	.	NA	0.026
+R231615301	DNMT3A	exonic	nonsynonymous SNV	C586R	0.021
+R231734532	TET2	exonic	nonsynonymous SNV	A1334V	0.026
+R231755648	DNMT3A	exonic	frameshift insertion	V339Gfs*4	0.02
+R232386011	DNMT3A	exonic	stopgain	R598X	0.03
+R232841099	DNMT3A	exonic	nonsynonymous SNV	R749G	0.036
+R232915018	DNMT3A	splicing	.	NA	0.02
+R233296887	TET2	exonic	nonsynonymous SNV	G1282D	0.147
+R233436664	PPM1D	exonic	frameshift deletion	F534Lfs*5	0.11
+R233883231	TET2	exonic	frameshift deletion	P555Qfs*6	0.025
+R234560048	TET2	splicing	.	NA	0.24
+R234863227	DNMT3A	exonic	stopgain	Q816X	0.028
+R236067747	GNB1	exonic	nonsynonymous SNV	K57E	0.063
+R236884184	DNMT3A	exonic	nonsynonymous SNV	P904S	0.026
+R236964258	TET2	exonic	frameshift insertion	T313Nfs*18	0.242
+R237005728	TET2	exonic	nonsynonymous SNV	A1153V	0.187
+R237303046	SF3B1	exonic	nonsynonymous SNV	G742D	0.104
+R238223709	PPM1D	exonic	frameshift insertion	M521Ifs*7	0.059
+R238503436	GNB1	exonic	nonsynonymous SNV	K57E	0.035
+R239641398	DNMT3A	exonic	nonsynonymous SNV	Y735C	0.021
+R239719558	DNMT3A	exonic	stopgain	W313X	0.029
+R240175196	TET2	exonic	frameshift deletion	F1377Lfs*23	0.023
+R240321687	SF3B1	exonic	nonsynonymous SNV	K700E	0.021
+R241938887	TP53	exonic	nonsynonymous SNV	S241C	0.035
+R242543102	PPM1D	exonic	frameshift deletion	I466Yfs*17	0.157
+R243243221	SRSF2	exonic	nonsynonymous SNV	P95H	0.023
+R243490505	GNB1	exonic	nonsynonymous SNV	K57E	0.023
+R243698856	PPM1D	exonic	frameshift deletion	F534Lfs*5	0.039
+R243989197	TET2	exonic	nonsynonymous SNV	I1873T	0.023
+R244571121	TP53	splicing	.	NA	0.12
+R244673701	PPM1D	exonic	stopgain	R458X	0.023
+R244754419	SF3B1	exonic	nonsynonymous SNV	G740R	0.109
+R244832458	TET2	exonic	nonsynonymous SNV	C1193W	0.081
+R245013403	TET2	exonic	frameshift deletion	P761Lfs*52	0.043
+R246180597	DNMT3A	exonic	frameshift deletion	E733Sfs*46	0.04
+R246910891	DNMT3A	exonic	nonsynonymous SNV	R771Q	0.134
+R246948543	DNMT3A	exonic	frameshift deletion	L508Sfs*143	0.079
+R247381768	TET2	exonic	frameshift deletion	K1911Nfs*39	0.241
+R247642783	ASXL1	exonic	stopgain	S526*	0.427
+R248398129	TET2	exonic	stopgain	Q1191X	0.048
+R249311401	DNMT3A	exonic	stopgain	Q402X	0.04
+R250000451	DNMT3A	exonic	stopgain	Y793X	0.257
+R250116814	DNMT3A	exonic	nonsynonymous SNV	Y660C	0.022
+R250336371	DNMT3A	exonic	frameshift deletion	T325Pfs*17	0.252
+R250813134	DNMT3A	splicing	.	NA	0.146
+R251488695	TET2	exonic	nonsynonymous SNV	P1316Q	0.034
+R251636250	ASXL1	exonic	stopgain	Q428X	0.059
+R251974836	DNMT3A	exonic	frameshift deletion	L819Rfs*35	0.048
+R252307141	TET2	exonic	frameshift insertion	N1714Kfs*20	0.031
+R252567903	TET2	exonic	stopgain	E808X	0.049
+R252773029	DNMT3A	exonic	stopgain	W297X	0.079
+R252991025	DNMT3A	splicing	.	NA	0.038
+R253144693	DNMT3A	exonic	nonsynonymous SNV	R882C	0.035
+R253220637	TET2	exonic	frameshift deletion	K1090Rfs*16	0.02
+R253455981	DNMT3A	splicing	.	NA	0.134
+R253493495	DNMT3A	exonic	stopgain	W305X	0.037
+R253507178	CBL	exonic	nonsynonymous SNV	I383T	0.041
+R253773441	PPM1D	exonic	stopgain	R572X	0.087
+R253820109	ASXL1	exonic	stopgain	S392X	0.03
+R254125465	DNMT3A	exonic	nonsynonymous SNV	G332R	0.025
+R255133805	TET2	exonic	stopgain	Q1524X	0.475
+R255903388	ASXL1	exonic	stopgain	Q512X	0.042
+R256020575	DNMT3A	exonic	nonsynonymous SNV	G298E	0.024
+R256265118	DNMT3A	exonic	frameshift insertion	V778Cfs*4	0.051
+R256369786	DNMT3A	exonic	frameshift deletion	P627Qfs*24	0.1
+R256543321	DNMT3A	exonic	nonsynonymous SNV	G332R	0.048
+R257353004	DNMT3A	exonic	nonsynonymous SNV	W860R	0.028
+R257815146	TET2	splicing	.	NA	0.088
+R259248654	DNMT3A	exonic	stopgain	W297X	0.056
+R259400781	PPM1D	exonic	frameshift insertion	N512Kfs*16	0.027
+R259695157	DNMT3A	exonic	frameshift deletion	M585Sfs*66	0.155
+R260272321	DNMT3A	exonic	stopgain	Y436X	0.03
+R260596513	DNMT3A	exonic	nonsynonymous SNV	Y735C	0.206
+R261458541	DNMT3A	exonic	nonsynonymous SNV	R882H	0.039
+R261566449	GNB1	exonic	nonsynonymous SNV	K57E	0.039
+R262346185	DNMT3A	exonic	stopgain	W306X	0.037
+R262644114	DNMT3A	exonic	nonsynonymous SNV	G707D	0.027
+R262733999	DNMT3A	exonic	nonsynonymous SNV	D529N	0.052
+R263953674	ASXL1	exonic	stopgain	Q529X	0.031
+R264358268	DNMT3A	exonic	nonsynonymous SNV	V328G	0.03
+R265690286	TET2	exonic	stopgain	D1425*	0.091
+R265874348	DNMT3A	exonic	nonsynonymous SNV	R882H	0.024
+R265946419	DNMT3A	exonic	frameshift deletion	M364Sfs*38	0.037
+R266769496	DNMT3A	exonic	nonsynonymous SNV	L901H	0.04
+R267698821	DNMT3A	exonic	frameshift insertion	S837Gfs*5	0.376
+R268137774	DNMT3A	exonic	nonsynonymous SNV	R882C	0.272
+R268285527	DNMT3A	exonic	nonsynonymous SNV	F731V	0.02
+R268900167	DNMT3A	exonic	nonsynonymous SNV	G796D	0.077
+R269818369	DNMT3A	exonic	stopgain	W795X	0.043
+R270091130	JAK2	exonic	nonsynonymous SNV	V617F	0.109
+R270767005	DNMT3A	exonic	nonsynonymous SNV	G308D	0.083
+R271336390	DNMT3A	exonic	nonsynonymous SNV	N797K	0.053
+R272197194	CBL	exonic	nonsynonymous SNV	C404Y	0.023
+R272813618	DNMT3A	exonic	nonsynonymous SNV	F731Y	0.035
+R273319762	DNMT3A	exonic	nonsynonymous SNV	R659H	0.05
+R273595392	TET2	exonic	nonsynonymous SNV	S1898Y	0.1
+R273810572	DNMT3A	exonic	stopgain	E469X	0.032
+R274857597	DNMT3A	splicing	.	NA	0.034
+R275146035	TET2	exonic	frameshift deletion	V469Yfs*17	0.031
+R275222385	PPM1D	exonic	stopgain	R581X	0.026
+R275273643	TET2	exonic	nonsynonymous SNV	R1167S	0.071
+R275437711	DNMT3A	exonic	nonsynonymous SNV	I780T	0.028
+R275984230	DNMT3A	exonic	stopgain	Q415X	0.067
+R276818773	DNMT3A	exonic	nonsynonymous SNV	G308D	0.094
+R277465154	DNMT3A	exonic	nonsynonymous SNV	F755S	0.028
+R278225255	DNMT3A	splicing	.	NA	0.026
+R278310442	TP53	exonic	nonsynonymous SNV	Y220C	0.095
+R278437439	DNMT3A	exonic	nonsynonymous SNV	F868L	0.035
+R278899308	DNMT3A	exonic	nonsynonymous SNV	E774K	0.11
+R279096561	TET2	exonic	stopgain	Y1255*	0.06
+R279434198	TET2	exonic	nonsynonymous SNV	W1291R	0.052
+R280081047	TET2	exonic	frameshift deletion	E711Afs*11	0.028
+R280661472	ASXL1	exonic	stopgain	R693X	0.373
+R280968977	DNMT3A	exonic	nonsynonymous SNV	R882H	0.028
+R281041812	TP53	exonic	nonsynonymous SNV	Y220C	0.025
+R281203194	PPM1D	exonic	stopgain	R552X	0.025
+R281990784	DNMT3A	exonic	nonsynonymous SNV	P777R	0.067
+R282044069	TET2	exonic	nonsynonymous SNV	R1307M	0.02
+R282196851	ASXL1	exonic	frameshift deletion	S798Mfs*20	0.124
+R282657209	TET2	exonic	nonsynonymous SNV	I1160F	0.147
+R282978676	DNMT3A	exonic	frameshift deletion	D286Tfs*30	0.242
+R283479799	TET2	exonic	nonsynonymous SNV	M1164I	0.021
+R284393910	DNMT3A	exonic	frameshift deletion	N519Lfs*26	0.046
+R284785284	TET2	exonic	nonsynonymous SNV	P1894T	0.075
+R284872879	DNMT3A	exonic	nonsynonymous SNV	I780S	0.033
+R284910087	DNMT3A	exonic	nonsynonymous SNV	R676W	0.025
+R285467677	DNMT3A	exonic	nonsynonymous SNV	I780T	0.143
+R285730970	DNMT3A	exonic	nonsynonymous SNV	L738Q	0.078
+R285733517	DNMT3A	exonic	stopgain	Q231X	0.034
+R286830107	DNMT3A	exonic	stopgain	Q615X	0.068
+R287473652	TET2	exonic	frameshift deletion	L1816Yfs*4	0.067
+R287709011	TET2	exonic	nonsynonymous SNV	R1167M	0.025
+R288348825	DNMT3A	exonic	stopgain	W330X	0.038
+R289152602	SF3B1	exonic	nonsynonymous SNV	K666N	0.022
+R289480119	DNMT3A	exonic	nonsynonymous SNV	R729Q	0.033
+R289743479	DNMT3A	exonic	frameshift deletion	G413Afs*238	0.036
+R289881117	DNMT3A	exonic	nonsynonymous SNV	R729W	0.049
+R290073625	DNMT3A	exonic	frameshift deletion	L648Wfs*3	0.022
+R290084782	DNMT3A	exonic	frameshift deletion	K299Nfs*17	0.028
+R290126705	ASXL1	exonic	stopgain	Y449X	0.368
+R290171612	TET2	exonic	nonsynonymous SNV	L1329Q	0.034
+R290593203	TET2	exonic	nonsynonymous SNV	G1313V	0.022
+R291158720	DNMT3A	exonic	stopgain	R320X	0.028
+R291234587	DNMT3A	exonic	nonsynonymous SNV	I705T	0.035
+R291260498	DNMT3A	splicing	.	NA	0.02
+R292064634	ASXL1	exonic	frameshift insertion	A752Gfs*22	0.288
+R292370203	DNMT3A	exonic	frameshift deletion	G413Afs*238	0.033
+R293126941	SRSF2	exonic	nonsynonymous SNV	P95L	0.032
+R293589149	TET2	exonic	stopgain	Q180X	0.021
+R293811797	DNMT3A	exonic	nonsynonymous SNV	F734L	0.066
+R294055887	TP53	splicing	.	NA	0.028
+R294089145	DNMT3A	exonic	stopgain	W313X	0.063
+R294097440	TP53	exonic	nonsynonymous SNV	A138V	0.053
+R294408294	SF3B1	exonic	nonsynonymous SNV	K666N	0.084
+R294528737	TET2	exonic	frameshift deletion	K306Nfs*2	0.022
+R296513688	ASXL1	exonic	stopgain	Q760X	0.417
+R297120031	TET2	exonic	nonsynonymous SNV	G1313V	0.022
+R297919016	IDH2	exonic	nonsynonymous SNV	R140Q	0.096
+R297935330	DNMT3A	exonic	nonsynonymous SNV	R882S	0.093
+R298651219	DNMT3A	exonic	nonsynonymous SNV	R736C	0.041
+R298722357	ASXL1	exonic	frameshift deletion	V515Gfs*13	0.235
+R298924125	DNMT3A	exonic	nonsynonymous SNV	R379C	0.026
+R299603973	DNMT3A	exonic	stopgain	E817X	0.021
+R299986105	DNMT3A	exonic	nonsynonymous SNV	L547H	0.045
+R272496530	ASXL1	exonic	frameshift insertion	G646Wfs*12	0.121
+R272496530	SF3B1	exonic	nonsynonymous SNV	H662D	0.085
+R206854984	TET2	exonic	nonsynonymous SNV	P1889L	0.118
+R206854984	TET2	exonic	frameshift deletion	L1515Cfs*56	0.051
+R206854984	TET2	exonic	stopgain	Q916X	0.043
+R291778325	DNMT3A	exonic	nonsynonymous SNV	A910P	0.429
+R291778325	DNMT3A	exonic	nonsynonymous SNV	S663W	0.035
+R291778325	TP53	exonic	nonsynonymous SNV	S241F	0.032
+R251429905	PPM1D	exonic	frameshift insertion	N492Kfs*2	0.234
+R297352980	DNMT3A	exonic	frameshift insertion	G109Afs*30	0.021
+R270840271	PPM1D	exonic	frameshift deletion	T506Cfs*21	0.084
+R263765286	TET2	exonic	stopgain	Q1466X	0.26
+R263765286	TET2	exonic	frameshift deletion	L1886Sfs*3	0.247
+R263765286	TET2	exonic	nonsynonymous SNV	D1384N	0.055
+R263765286	TET2	exonic	frameshift deletion	T1793Rfs*10	0.051
+R263765286	TET2	exonic	nonsynonymous SNV	C1263Y	0.036
+R263765286	TET2	splicing	.	NA	0.035
+R253126372	DNMT3A	exonic	nonsynonymous SNV	R882H	0.102
+R253126372	DNMT3A	exonic	nonsynonymous SNV	I310T	0.022
+R222480289	DNMT3A	exonic	nonsynonymous SNV	R556G	0.033
+R281750113	TET2	exonic	nonsynonymous SNV	R1261G	0.172
+R268964306	DNMT3A	splicing	.	NA	0.036
+R298117238	DNMT3A	exonic	nonsynonymous SNV	R736C	0.23
+R254037105	DNMT3A	exonic	nonsynonymous SNV	L344Q	0.035
+R241724835	TET2	exonic	nonsynonymous SNV	Y1148C	0.428
+R241724835	TET2	splicing	.	NA	0.419
+R241724835	KRAS	exonic	nonsynonymous SNV	A146V	0.069
+R241724835	TP53	exonic	nonsynonymous SNV	R273H	0.039
+R241724835	KRAS	exonic	nonsynonymous SNV	T58I	0.028
+R241724835	NRAS	exonic	nonsynonymous SNV	G12D	0.026
+R287332128	DNMT3A	exonic	nonsynonymous SNV	R326H	0.136
+R285559111	IDH2	exonic	nonsynonymous SNV	R140Q	0.143
+R229704593	PPM1D	exonic	stopgain	R552X	0.026
+R294610421	ASXL1	exonic	stopgain	G649X	0.035
+R218100045	DNMT3A	exonic	nonsynonymous SNV	R882C	0.026
+R218100045	DNMT3A	exonic	stopgain	W795X	0.025
+R292052291	DNMT3A	exonic	nonsynonymous SNV	Y735C	0.03
+R292052291	PPM1D	exonic	stopgain	C478X	0.028
+R281270851	DNMT3A	exonic	nonsynonymous SNV	F752L	0.248
+R256987430	DNMT3A	exonic	stopgain	Q678X	0.021
+R215660723	ASXL1	exonic	stopgain	Q976X	0.043
+R280638534	DNMT3A	exonic	nonsynonymous SNV	R326C	0.042
+R280638534	DNMT3A	exonic	frameshift deletion	I369Sfs*38	0.03
+R240622907	DNMT3A	exonic	nonsynonymous SNV	R326C	0.086
+R226157210	TET2	exonic	stopgain	Q1507X	0.026
+R243317393	JAK2	exonic	nonsynonymous SNV	V617F	0.045
+R261158428	PPM1D	exonic	frameshift deletion	I526Lfs*13	0.023
+R281916232	DNMT3A	exonic	frameshift deletion	E235Sfs*81	0.217
+R233753998	DNMT3A	exonic	stopgain	Q515X	0.022
+R212248070	TET2	exonic	nonsynonymous SNV	D1427V	0.125
+R212248070	PPM1D	exonic	frameshift insertion	L484Ffs*2	0.111
+R212248070	TET2	exonic	stopgain	Q746X	0.105
+R212248070	ASXL1	exonic	stopgain	Y449*	0.049
+R277503354	PPM1D	exonic	stopgain	S516X	0.108
+R250261825	SF3B1	exonic	nonsynonymous SNV	K700E	0.215
+R202051882	DNMT3A	exonic	nonsynonymous SNV	L547R	0.069
+R216595405	DNMT3A	exonic	nonsynonymous SNV	F734C	0.064
+R216595405	DNMT3A	exonic	stopgain	S786X	0.02
+R219782647	DNMT3A	exonic	frameshift deletion	C351Afs*56	0.02
+R219782647	DNMT3A	exonic	nonsynonymous SNV	C911Y	0.02
+R294907573	DNMT3A	splicing	.	NA	0.219
+R294907573	IDH1	exonic	nonsynonymous SNV	R132H	0.035
+R277780371	TET2	exonic	frameshift deletion	K1308Sfs*55	0.032
+R248843465	DNMT3A	exonic	stopgain	R598X	0.081
+R264816982	DNMT3A	exonic	nonsynonymous SNV	R882H	0.285
+R276199077	DNMT3A	exonic	nonsynonymous SNV	G728D	0.091
+R276199077	DNMT3A	exonic	nonsynonymous SNV	R635W	0.04
+R276199077	PPM1D	exonic	frameshift deletion	P530Qfs*8	0.025
+R270125583	DNMT3A	exonic	nonsynonymous SNV	E477K	0.055
+R268515196	TET2	exonic	stopgain	S1643*	0.02
+R205205503	DNMT3A	exonic	stopgain	R598X	0.04
+R205205503	TET2	exonic	frameshift deletion	V832Ffs*9	0.039
+R205205503	DNMT3A	exonic	frameshift insertion	G109Afs*16	0.023
+R205205503	DNMT3A	exonic	frameshift insertion	Q110Pfs*16	0.022
+R235237442	DNMT3A	exonic	nonsynonymous SNV	R659H	0.02
+R257424380	DNMT3A	exonic	nonsynonymous SNV	R736C	0.067
+R257424380	ASXL1	exonic	stopgain	Q491*	0.025
+R225898640	TP53	exonic	stopgain	R306X	0.073
+R225898640	TET2	exonic	frameshift deletion	N275Ifs*18	0.021
+R258449721	DNMT3A	exonic	nonsynonymous SNV	F868L	0.02
+R211421977	PPM1D	exonic	stopgain	W427X	0.042
+R280393857	ASXL1	exonic	frameshift deletion	S878Rfs*3	0.027
+R259895575	DNMT3A	exonic	stopgain	L805X	0.035
+R259895575	BRCC3	exonic	stopgain	Q139X	0.023
+R235188571	DNMT3A	exonic	nonsynonymous SNV	R882C	0.15
+R235188571	PPM1D	exonic	frameshift deletion	T537Hfs*2	0.033
+R235188571	TET2	exonic	stopgain	R1516X	0.025
+R236391320	DNMT3A	exonic	frameshift deletion	K382Sfs*25	0.04
+R264712634	ASXL1	exonic	frameshift deletion	E635Rfs*15	0.022
+R202072581	DNMT3A	exonic	nonsynonymous SNV	D702G	0.032
+R250149402	TET2	exonic	stopgain	S1290X	0.032
+R275585070	DNMT3A	splicing	.	NA	0.084
+R275585070	TET2	exonic	nonsynonymous SNV	G1152R	0.028
+R287330882	KRAS	exonic	nonsynonymous SNV	A146V	0.064
+R251444632	DNMT3A	exonic	frameshift deletion	N838Tfs*3	0.042
+R251957885	TET2	exonic	nonsynonymous SNV	R1261C	0.041
+R232723307	TP53	splicing	.	NA	0.038
+R288414597	TET2	exonic	frameshift deletion	P400Tfs*42	0.112
+R242936705	GNB1	exonic	nonsynonymous SNV	K57E	0.358
+R242936705	JAK2	exonic	nonsynonymous SNV	V617F	0.092
+R235238163	TP53	exonic	frameshift deletion	A69Lfs*54	0.066
+R235238163	DNMT3A	exonic	frameshift insertion	K140Qfs*76	0.043
+R235238163	DNMT3A	exonic	nonsynonymous SNV	C494Y	0.031
+R221000117	TP53	exonic	nonsynonymous SNV	R175H	0.051
+R204633384	PPM1D	exonic	stopgain	R552X	0.026
+R240150176	DNMT3A	exonic	nonsynonymous SNV	R882H	0.459
+R240150176	DNMT3A	exonic	nonsynonymous SNV	R688G	0.056
+R240150176	GNB1	exonic	nonsynonymous SNV	K57E	0.037
+R263936560	TET2	exonic	frameshift deletion	H1325Ifs*38	0.022
+R213692253	TET2	exonic	nonsynonymous SNV	V1454G	0.066
+R210012020	DNMT3A	exonic	nonsynonymous SNV	R366H	0.023
+R242662173	PPM1D	exonic	stopgain	S468X	0.11
+R273164298	PPM1D	exonic	frameshift deletion	N512Ifs*2	0.039
+R275158853	DNMT3A	exonic	stopgain	R476X	0.179
+R283044946	DNMT3A	exonic	stopgain	Q573X	0.032
+R283044946	CBL	exonic	nonsynonymous SNV	C396Y	0.022
+R294945746	SRSF2	exonic	nonsynonymous SNV	P95R	0.389
+R294945746	ASXL1	exonic	frameshift deletion	E635Rfs*15	0.33
+R294945746	SETBP1	exonic	nonsynonymous SNV	G870S	0.078
+R225158251	ASXL1	exonic	stopgain	S1255X	0.028
+R225158251	TET2	exonic	stopgain	Q1652X	0.027
+R299934558	PPM1D	exonic	stopgain	Q571X	0.027
+R211736858	DNMT3A	exonic	nonsynonymous SNV	R882H	0.031
+R251405133	TP53	exonic	nonsynonymous SNV	L257P	0.031
+R251405133	DNMT3A	exonic	nonsynonymous SNV	W581G	0.022
+R277127003	PPM1D	exonic	stopgain	E472X	0.13
+R206287505	DNMT3A	exonic	nonsynonymous SNV	V328G	0.037
+R206287505	TP53	exonic	nonsynonymous SNV	R248W	0.021
+R299333599	TP53	exonic	nonsynonymous SNV	G244S	0.055
+R254653841	DNMT3A	exonic	nonsynonymous SNV	L773I	0.447
+R216771663	BRCC3	exonic	stopgain	Q96X	0.021
+R221955328	PPM1D	exonic	frameshift deletion	L546Rfs*2	0.028
+R296703159	TET2	exonic	stopgain	K1208X	0.12
+R225265166	TET2	exonic	frameshift deletion	G614Hfs*17	0.022
+R299246211	TET2	exonic	frameshift deletion	D527Tfs*6	0.444
+R299246211	JAK2	exonic	nonsynonymous SNV	V617F	0.406
+R241319890	PPM1D	exonic	frameshift insertion	L484Ffs*5	0.322
+R291322295	DNMT3A	exonic	frameshift deletion	E863Kfs*18	0.08
+R291322295	TET2	exonic	nonsynonymous SNV	G1860E	0.06
+R203763522	TP53	exonic	nonsynonymous SNV	Y220C	0.023
+R299517709	DNMT3A	exonic	nonsynonymous SNV	A376T	0.035
+R229195551	SRSF2	exonic	nonsynonymous SNV	P95H	0.469
+R229195551	ASXL1	exonic	frameshift insertion	G646Wfs*12	0.407
+R244009194	DNMT3A	exonic	nonsynonymous SNV	R604Q	0.476
+R257874948	DNMT3A	exonic	nonsynonymous SNV	R635Q	0.033
+R281292430	ASXL1	exonic	frameshift insertion	C872Wfs*11	0.037
+R229067414	SF3B1	exonic	nonsynonymous SNV	K700E	0.308
+R252650914	DNMT3A	exonic	nonsynonymous SNV	M548T	0.179
+R286753064	DNMT3A	exonic	frameshift insertion	C524Wfs*22	0.022
+R237533961	DNMT3A	exonic	stopgain	W314X	0.023
+R280293563	TP53	exonic	nonsynonymous SNV	P151R	0.022
+R200715612	DNMT3A	exonic	nonsynonymous SNV	V778M	0.044
+R256144074	PPM1D	exonic	frameshift deletion	T537Nfs*2	0.037
+R203408105	DNMT3A	exonic	frameshift insertion	G109Afs*16	0.022
+R203408105	DNMT3A	exonic	frameshift insertion	Q110Pfs*16	0.021
+R223353172	TP53	exonic	nonsynonymous SNV	R282W	0.027
+R223353172	TP53	exonic	frameshift insertion	P36Afs*7	0.02
+R296895447	PPM1D	exonic	stopgain	R552X	0.022
+R225038108	DNMT3A	exonic	frameshift insertion	S267Vfs*14	0.318
+R201938638	PPM1D	exonic	stopgain	L484X	0.085
+R287235855	DNMT3A	exonic	nonsynonymous SNV	R635Q	0.035
+R226599194	TP53	exonic	nonsynonymous SNV	A347T	0.119
+R271980363	ASXL1	exonic	frameshift insertion	G646Wfs*12	0.394
+R271980363	DNMT3A	exonic	frameshift insertion	D702Ifs*21	0.021
+R264793035	PPM1D	exonic	frameshift insertion	D470Rfs*6	0.061
+R270884704	ASXL1	exonic	frameshift deletion	E198Afs*33	0.021
+R253837069	DNMT3A	exonic	nonsynonymous SNV	V649M	0.039
+R254041756	IDH1	exonic	nonsynonymous SNV	R132H	0.02
+R270298403	DNMT3A	exonic	nonsynonymous SNV	R882H	0.073
+R297960812	ASXL1	exonic	stopgain	C594X	0.06
+R215715294	BRCC3	exonic	frameshift deletion	Q10Rfs*18	0.027
+R242648525	DNMT3A	exonic	nonsynonymous SNV	F732I	0.134
+R298769523	TET2	exonic	frameshift deletion	T1086Lfs*20	0.032
+R271545167	TP53	exonic	nonsynonymous SNV	C277Y	0.021
+R210132007	DNMT3A	splicing	.	NA	0.023
